@@ -4,24 +4,25 @@
 를 만족하는 대각행렬 B와 가역행렬 P가 존재하면,  
 행렬 A는 **대각화 가능 행렬**이라고 한다.  
 또한 이 경우 행렬 P는 A를 **대각화한다**고 한다.  
-<br/>
+  
 ## 궁금증
 대각화는 왜 어색하게도  
 ![logo](http://www.sciweavers.org/upload/Tex2Img_1567947242/render.png) 
 이렇게 정의가 되었을까?  
   
-jryoungw[[링크]](https://jryoungw.github.io/)에게 질문하여 얻은 답변은 다음과 같다.
-  
-##
-기저의 변환
+jryoungw[[링크]](https://jryoungw.github.io/)와 질의응답을 통해 얻은 깨달음은 다음과 같다.
   
 ## ![logo](http://www.sciweavers.org/upload/Tex2Img_1567947600/render.png) 가역행렬의 의미
 ![logo](http://www.sciweavers.org/upload/Tex2Img_1567946741/render.png) 가역행렬이란 문자그대로는 역행렬을 가지는 행렬이다.  
 그러나 또 다른 의미가 있다.
-
+  
+기저의 변환
+  
 예를들어  
 ![logo](http://www.sciweavers.org/upload/Tex2Img_1567947485/render.png)  
 이라는 가역행렬이 있다고 하자.  
+가역행렬은 모든 행이 선형독립이다.  
+
 
   
 ## 대각행렬의 수학적 의미

@@ -1,3 +1,12 @@
+---
+title: "Study Materials"
+tags:
+  - Mathematics & Statistics
+  - Data Science
+  - Digital Healthcare
+use_math: true
+---
+
 ### Mathematics & Statistics
 
 - Statistics

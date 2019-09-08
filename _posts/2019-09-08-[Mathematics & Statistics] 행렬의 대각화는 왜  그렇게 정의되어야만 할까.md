@@ -1,4 +1,9 @@
+---
+title : "[Mathematics & Statistics] 행렬의 대각화는 왜  그렇게 정의되어야만 할까"
+tags:
+  - Mathematics & Statistics
 use_math: true
+---
 
 ## 대각화의 정의
 두 정사각 행렬 A, B에 대하여 방정식  

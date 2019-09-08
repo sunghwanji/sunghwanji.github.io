@@ -7,7 +7,7 @@
 <br/>
 ## 궁금증
 대각화는 왜 어색하게도  
-![logo](http://www.sciweavers.org/upload/Tex2Img_1567946186/render.png) 
+![logo](http://www.sciweavers.org/upload/Tex2Img_1567947242/render.png) 
 이렇게 정의가 되었을까?  
   
 Dr.J[[링크]](https://jryoungw.github.io/)에게 질문하여 얻은 답변은 다음과 같다.

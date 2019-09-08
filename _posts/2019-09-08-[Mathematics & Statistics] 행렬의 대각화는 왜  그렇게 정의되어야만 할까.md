@@ -10,7 +10,7 @@
 ![logo](http://www.sciweavers.org/upload/Tex2Img_1567947242/render.png) 
 이렇게 정의가 되었을까?  
   
-Dr.J[[링크]](https://jryoungw.github.io/)에게 질문하여 얻은 답변은 다음과 같다.
+jryoungw[[링크]](https://jryoungw.github.io/)에게 질문하여 얻은 답변은 다음과 같다.
   
 ##
 기저의 변환
@@ -18,7 +18,10 @@ Dr.J[[링크]](https://jryoungw.github.io/)에게 질문하여 얻은 답변은 
 ## ![logo](http://www.sciweavers.org/upload/Tex2Img_1567946741/render.png) 가역행렬의 의미
 ![logo](http://www.sciweavers.org/upload/Tex2Img_1567946741/render.png) 가역행렬이란 문자그대로는 역행렬을 가지는 행렬이다.  
 그러나 또 다른 의미가 있다.
-  
+
+예를들어  
+![logo](http://www.sciweavers.org/upload/Tex2Img_1567947485/render.png)  
+이라는 가역행렬이 있다고 하자.  
 
   
 ## 대각행렬의 수학적 의미

@@ -15,7 +15,7 @@ jryoungw[[링크]](https://jryoungw.github.io/)에게 질문하여 얻은 답변
 ##
 기저의 변환
   
-## ![logo](http://www.sciweavers.org/upload/Tex2Img_1567946741/render.png) 가역행렬의 의미
+## ![logo](http://www.sciweavers.org/upload/Tex2Img_1567947600/render.png) 가역행렬의 의미
 ![logo](http://www.sciweavers.org/upload/Tex2Img_1567946741/render.png) 가역행렬이란 문자그대로는 역행렬을 가지는 행렬이다.  
 그러나 또 다른 의미가 있다.
 

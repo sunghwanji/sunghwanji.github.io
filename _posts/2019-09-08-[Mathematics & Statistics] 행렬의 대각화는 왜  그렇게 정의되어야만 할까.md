@@ -56,7 +56,7 @@ $b_{1},...,b_{n}$는 n차원 벡터공간의 기저가 된다.
 <br>  
 <br>   
 ## 행렬의 표현 바꾸기
-![그림]:"https://imgur.com/InQeRgY"
+![그림]:"https://i.imgur.com/InQeRgY.png"
 
 #### 행렬의 닮음
 두 정사각 행렬 A, B에 대하여 방정식  

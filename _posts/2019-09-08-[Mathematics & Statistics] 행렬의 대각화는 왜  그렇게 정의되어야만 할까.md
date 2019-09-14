@@ -63,7 +63,7 @@ $V_{new}$와 $V_{new}'$는 m차원 벡터공간이며,
 각 기저집합을 $\mathfrak{F_{1}}$, $\mathfrak{F_{2}}$라고 하자.  
   
 $P_{n}$은 임의의 $n\times n$ 가역행렬이며  
-n차원 벡터공간에서 기저를 $\mathfrak{E_{1}}$에서 $\mathfrak{E_{2}}$로 바꿔주는 행렬이다.
+n차원 벡터공간에서 기저를 $\mathfrak{E_{1}}$에서 $\mathfrak{E_{2}}$로 바꿔주는 행렬이다.  
 $Q_{m}$은 임의의 $m\times m$ 가역행렬이며  
 m차원 벡터공간에서 기저를 $\mathfrak{F_{1}}$에서 $\mathfrak{F_{2}}$로 바꿔주는 행렬이다.  
    

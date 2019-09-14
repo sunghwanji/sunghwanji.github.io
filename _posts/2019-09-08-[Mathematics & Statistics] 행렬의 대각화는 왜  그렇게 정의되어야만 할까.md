@@ -18,9 +18,9 @@ $B=P^{-1}AP$
 임의의 정사각 행렬 A를 대각행렬로 만드는 방법은 다양할 것이다.  
 예를들어,  
   
-$$\begin{pmatrix}1 & 2 \\0 & 1 \end{pmatrix}$$ 라는 행렬을 대각행렬로 만드는 방법은 잠깐 생각해봐도,  
-1. $\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix} -  \begin{bmatrix}0 & 2 \\0 & 0 \end{bmatrix} =  \begin{bmatrix}1 & 0 \\0 & 1 \end{bmatrix}$   
-2. $\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix}  \times  \begin{bmatrix}1 & -2 \\0 & 1 \end{bmatrix} =  \begin{bmatrix}1 & 0 \\0 & 1 \end{bmatrix}$   
+$$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix}$$ 라는 행렬을 대각행렬로 만드는 방법은 잠깐 생각해봐도,  
+1. $$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix} -  \begin{bmatrix}0 & 2 \\0 & 0 \end{bmatrix} =  \begin{bmatrix}1 & 0 \\0 & 1 \end{bmatrix}$$   
+2. $$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix}  \times  \begin{bmatrix}1 & -2 \\0 & 1 \end{bmatrix} =  \begin{bmatrix}1 & 0 \\0 & 1 \end{bmatrix}$$   
 등등 굉장히 다양하다.  
   
 그럼에도 불구하고, 대각화는 왜 굳이 어색하게도,  

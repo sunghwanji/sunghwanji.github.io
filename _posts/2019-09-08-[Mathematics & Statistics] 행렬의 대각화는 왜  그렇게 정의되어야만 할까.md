@@ -20,8 +20,8 @@ $B=P^{-1}AP$
   
 $$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix}$$ 라는 행렬을 대각행렬로 만드는 방법은 잠깐 생각해봐도,  
 
-1.$$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix} - \begin{bmatrix}0 & 2 \\0 & 0 \end{bmatrix} = \begin{bmatrix}1 & 0 \\0 & 1 \end{bmatrix}$$   
-2.$$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix}  \times  \begin{bmatrix}1 & -2 \\0 & 1 \end{bmatrix} = \begin{bmatrix}1 & 0 \\0 & 1 \end{bmatrix}$$   
+1) $$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix} - \begin{bmatrix}0 & 2 \\0 & 0 \end{bmatrix} = \begin{bmatrix}1 & 0 \\0 & 1 \end{bmatrix}$$   
+2) $$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix}  \times  \begin{bmatrix}1 & -2 \\0 & 1 \end{bmatrix} = \begin{bmatrix}1 & 0 \\0 & 1 \end{bmatrix}$$   
 
 등등 굉장히 다양하다.  
   
@@ -56,7 +56,12 @@ $b_{1},...,b_{n}$는 n차원 벡터공간의 기저가 된다.
 <br>  
 <br>   
 ## 행렬의 표현 바꾸기
-![그림]:"https://i.imgur.com/InQeRgY.png"
+![그림]:(https://i.imgur.com/InQeRgY.png)
+$V_{origin}$은 n차원 벡터공간  
+$V_{new}$는 m차원 벡터공간  
+$A$는 임의의 $m\times n$ 행렬  
+$P_{n}$은 임의의 $n\times n$ 가역행렬  
+$Q_{m}$은 임의의 $m\times m$ 가역행렬  
 
 #### 행렬의 닮음
 두 정사각 행렬 A, B에 대하여 방정식  

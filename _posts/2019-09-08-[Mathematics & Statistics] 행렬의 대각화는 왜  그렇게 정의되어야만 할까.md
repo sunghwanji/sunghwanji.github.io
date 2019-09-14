@@ -57,7 +57,7 @@ $b_{1},...,b_{n}$는 n차원 벡터공간의 기저가 된다.
 <br>  
 <br>   
 ## 행렬의 표현 바꾸기
-![그림]:(https://i.imgur.com/InQeRgY.png)
+![그림]:(https://i.imgur.com/InQeRgY.png)  
 $V_{origin}$은 n차원 벡터공간  
 $V_{new}$는 m차원 벡터공간  
 $A$는 임의의 $m\times n$ 행렬  

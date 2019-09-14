@@ -28,7 +28,7 @@ $$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix}$$ 라는 행렬을 대각행렬로 
 $B=P^{-1}AP$ 
 이렇게 정의가 되었을까?   
   
-jryoungw[[링크]](https://jryoungw.github.io/)와 질의응답을 토대로 고민 끝에 얻은 대답은 다음과 같다.  
+jryoungw[[링크]](https://jryoungw.github.io/)와 대화를 통해 얻은 깨달음은 다음과 같다.  
 <br>  
 <br>  
 ## 대각화의 의미
@@ -67,7 +67,7 @@ n차원 벡터공간에서 기저를 $\mathfrak{E_{1}}$에서 $\mathfrak{E_{2}}$
 $Q_{m}$은 임의의 $m\times m$ 가역행렬이며  
 m차원 벡터공간에서 기저를 $\mathfrak{F_{1}}$에서 $\mathfrak{F_{2}}$로 바꿔주는 행렬이다.  
    
-$A$는 임의의 $m\times n$ 행렬이며  
+$A$는 임의의 $n\times m$ 행렬이며  
 $V_{origin}$에서 $V_{new}$로의 선형사상이다.    
   
 따라서, 행렬$B$는 행렬$A$와 표현만 바뀌었을 뿐, 본질적으로는 같은 행렬(=선형사상)이다.  

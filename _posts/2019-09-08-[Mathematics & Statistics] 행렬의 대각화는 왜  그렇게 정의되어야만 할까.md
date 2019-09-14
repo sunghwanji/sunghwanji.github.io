@@ -20,8 +20,8 @@ $B=P^{-1}AP$
   
 $$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix}$$ 라는 행렬을 대각행렬로 만드는 방법은 잠깐 생각해봐도,  
 
-1. $$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix} - \begin{bmatrix}0 & 2 \\0 & 0 \end{bmatrix} = \begin{bmatrix}1 & 0 \\0 & 1 \end{bmatrix}$$   
-2. $$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix}  \times  \begin{bmatrix}1 & -2 \\0 & 1 \end{bmatrix} = \begin{bmatrix}1 & 0 \\0 & 1 \end{bmatrix}$$   
+1.$$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix} - \begin{bmatrix}0 & 2 \\0 & 0 \end{bmatrix} = \begin{bmatrix}1 & 0 \\0 & 1 \end{bmatrix}$$   
+2.$$\begin{bmatrix}1 & 2 \\0 & 1 \end{bmatrix}  \times  \begin{bmatrix}1 & -2 \\0 & 1 \end{bmatrix} = \begin{bmatrix}1 & 0 \\0 & 1 \end{bmatrix}$$   
 
 등등 굉장히 다양하다.  
   

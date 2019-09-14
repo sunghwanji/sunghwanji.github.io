@@ -58,11 +58,14 @@ $b_{1},...,b_{n}$는 n차원 벡터공간의 기저가 된다.
 <br>   
 ## 행렬의 표현 바꾸기
 ![그림]:(https://i.imgur.com/InQeRgY.png)  
-$V_{origin}$은 n차원 벡터공간  
+$V_{origin}$와 $V'_{origin}$은 n차원 벡터공간이며, 각 기저집합을 $\mathfrak{E_{1}}$, $\mathfrak{E_{2}}$
 $V_{new}$는 m차원 벡터공간  
 $A$는 임의의 $m\times n$ 행렬  
 $P_{n}$은 임의의 $n\times n$ 가역행렬  
 $Q_{m}$은 임의의 $m\times m$ 가역행렬  
+  
+행렬$A$는 $V_{origin}$에서 $V_{new}$로의 선형사상이다.  
+
 
 #### 행렬의 닮음
 두 정사각 행렬 A, B에 대하여 방정식  

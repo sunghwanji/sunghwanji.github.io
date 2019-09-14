@@ -76,7 +76,7 @@ $V_{origin}$에서 $V_{new}$로의 선형사상이다.
 예를들어 n차원 벡터 v를  
 기저 $\mathfrak{E_{1}}$로 표현한 것을 A로 선형사상 시키든  
 기저 $\mathfrak{F_{1}}$로 표현한 것을 B로 선형사상 시키든  
-결과는 각각 기저 $\mathfrak{F_{1}}$, $\mathfrak{F_{2}}$로 표현한  
+결과는 각각 기저 $\mathfrak{E_{2}}$, $\mathfrak{F_{2}}$로 표현한  
 같은 m차원 벡터v'가 된다.
 <br>  
 <br>  

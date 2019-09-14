@@ -57,7 +57,7 @@ $b_{1},...,b_{n}$는 n차원 벡터공간의 기저가 된다.
 <br>  
 <br>   
 ## 행렬의 표현 바꾸기
-![그림]:(sunghwanji.github.io/img/change the basis.PNG)   
+![그림](sunghwanji.github.io/img/change the basis.PNG)   
 $V_{origin}$와 $V_{origin}'$은 n차원 벡터공간이며,  
 각 기저집합을 $\mathfrak{E_{1}}$, $\mathfrak{E_{2}}$라고 하자.  
 $V_{new}$와 $V_{new}'$는 m차원 벡터공간이며,  

@@ -5,12 +5,6 @@ tags:
 use_math: true
 ---
 
----
-layout: default
-comments: true
-# other options
----
-
 ## 대각화의 정의
 >두 정사각 행렬 A, B에 대하여 방정식  
 >$B=P^{-1}AP$  

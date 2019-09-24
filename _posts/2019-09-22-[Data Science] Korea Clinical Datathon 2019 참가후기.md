@@ -3,6 +3,7 @@ title : "[Data Science] Korea Clinical Datathon 2019 참가후기"
 tags:
   - Data Science
 use_math: false
+background: '/img/posts/Clinical_Datathon.jpg'
 ---
 
 책으로 수학, 통계, 머신러닝 등을 배우면서 이제는 리얼데이터를 한번 다뤄보고 싶다는 생각을 하던 중,  

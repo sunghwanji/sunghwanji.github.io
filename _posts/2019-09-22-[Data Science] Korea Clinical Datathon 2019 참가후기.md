@@ -13,7 +13,7 @@ background: '/img/posts/Clinical_Datathon.jpg'
 8월 31일에 pre-wrokshop을 진행하였고, 그때 산부인과, 내과 전문의 선생님 두분과 마음이 맞아 팀을 꾸리게 되었다.  
 그리고 9월 20일~22일 본 대회가 진행되었다.  
 <br>
-### 1. Learning by doing의 중요성
+### 1. Learning by Doing!!
 우리 팀은 아주대학교의 Common data model(CDM, 병원간 다른 의료정보시스템을 이용하고 있어 다기관 연구가 힘든 점을 보완하기 위해 각 병원 데이터를 표준화 한 모델)을 이용하여 데이터톤을 진행하였다.  
 책상에서 배울 때는 
 연구디자인, raw data를 추출하는 것 부터 

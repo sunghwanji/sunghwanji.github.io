@@ -18,7 +18,7 @@ background: '/img/posts/Clinical_Datathon.jpg'
 연구디자인, raw data를 추출하는 것 부터 
 <br>
 ### 2. 상상력만 있으면 뭐든 해 볼 수 있다
-이번 대회에서 1등을 한 팀은, ICU datas인 MiMIC-III dataset으로 Sepsis classification을 시도한 팀이었다. 연구 배경을 잠시 들어보니, 임상에서 sepsis를 볼 때 경험적으로 phenotype을 묶을 수 있다고 느끼셨고, 최근 그런 저널들도 나오고 있었고, 지금까지 적용하지 못한 방법론인 머신러닝에서 비지도학습으로 clustering
+이번 대회에서 1등을 한 팀은, ICU datas인 MiMIC-III dataset으로 Sepsis classification을 시도한 팀이었다. 연구 배경을 잠시 들어보니, 임상에서 sepsis를 볼 때 경험적으로 phenotype을 묶을 수 있다고 느끼셨고, 최근 그런 저널들도 나오고 있었고, 지금까지 적용하지 못한 방법론인 머신러닝에서 비지도학습으로 clustering을 해보면 뭔가가 나올 것이라는 기대감으로 시작하였다고 한다. 발표 때 보여줬던 연구 결과는 대단했다. MiMIC-III의 sepsis환자를 머신러닝(Publishing 예정이라 구체적인 모델은 말할 수 없지만)으로 Clustering헸고 기존에 없었던 4가지 phenotype으로 나뉘어 졌다. 더욱 놀라웠던 것은, 각 phenotype의 
 <br>
 ### 3.  협업의 즐거움
 무엇보다 값졌던 것은, 의사, Data scientisit, SQL전문가, IT전문가 등 다양한 (나빼고)전문가와 한 가지 목표를 향하여 토론하고, 소통하고, 서로를 이해하는 과정이었다.  

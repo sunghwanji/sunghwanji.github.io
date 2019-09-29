@@ -7,7 +7,6 @@ background: '/img/posts/Clinical_Datathon.jpg'
 ---
 
 책으로 수학, 통계, 머신러닝 등을 배우면서 이제는 real data를 한번 다뤄보고 싶다는 생각을 하던 중, 국가임상시험지원재단에서 주최하는 [Korea Clinical Datathon 2019](http://datathon.konect.or.kr/)공고를 읽으며, 딱 맞는 기회라고 생각이 되었다. 다양한 전문가와 협업을 할 기회가 주어질 뿐만 아니라, MIT, Oxford, NUS 등의 다양한 기관에서 온 멘토들과 교류할 기회가 주어졌다.  
-
 8월 31일에 pre-wrokshop을 진행하였고, 그때 산부인과, 내과 전문의 선생님 두분과 마음이 맞아 상대적으로 젊은 팀을 꾸리게 되었다. 그리고 9월 20일~22일 본 대회가 진행되었다.  
 <br>
 ### 1. Learning by Doing!!

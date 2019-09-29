@@ -30,4 +30,6 @@ background: '/img/posts/Clinical_Datathon.jpg'
 
 인턴에게 2박 3일의 시간은 내기 쉽지 않지만, 정말 아깝지 않은 시간이 었고, 쉽지 않겠지만 다음에 기회가 생긴다면 꼭 다시 참가하고 싶다.  
 
-빨리 뭐라도 할 줄 아는 것을 만들어서 정말 힘이되는 팀원이 되고싶다...ㅎㅎ
+빨리 뭐라도 할 줄 아는 것을 만들어서 정말 힘이되는 팀원이 되고싶다...ㅎㅎ  
+
+[발표자료](https://sunghwanji.github.io/assets/pdfs/20190922_team12_fin.pdf)

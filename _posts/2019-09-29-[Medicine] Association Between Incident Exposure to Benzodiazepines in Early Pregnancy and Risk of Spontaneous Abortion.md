@@ -12,6 +12,7 @@ JAMA Psychiatry에 2019.09에 실린 저널
 Early pregnancy 때 Benzodiazepine(BZD)에 노출 되었을 때 Spontaeous abortion(SA, 자연유산)의 위험성이 증가한다는 것은 선행 연구를 통해 밝혀져있으나, Benzodiazepine의 작용시간 및 종류에 따른 위험성에 대해서는 연구가 없다는 점에서 시작한 연구.
 
 #### 두 줄 요약
+주제는 비교적 명확하여 두 줄 요약이 가능하다.
 1. Early pregnancy 때 BZD에 노출되면 SA가 증가한다.   
 2. BZD를 반감기에 따라 long-acting, short-acting으로 나눠서 분석했을 때나 BZD를 각각의 specific agent로 나눠서 분석했을 때도 그 경향은 유지되며, Dose-response 또한 있다.  
 <br>  

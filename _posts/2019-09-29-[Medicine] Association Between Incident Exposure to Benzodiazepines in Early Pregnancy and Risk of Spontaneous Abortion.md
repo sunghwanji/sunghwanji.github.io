@@ -22,5 +22,5 @@ N수도 많았지만 무엇보다 놀랐던 것은, 각각의 산모가 unique h
 우리나라도 공공데이터를 individual-level로 연결해서 분석에 이용할 수 있는지 궁금했고, 연세대학교 박유랑 교수님을 포함한 여러분께 질문을 드렸다. 아직은 individual-level로 여러 DB를 쓰는 것이 우리나라는 기술적으로도 제도적으로도 어려운듯 해보였다. 개인정보를 포함한 해결해야할 여러 이슈들이 있었다. 연구적으로는 굉장히 가치있는 일이라고 생각하는데, 언젠가는 적절한 방법으로 해결이 되었으면 한다.  
 [[(참고)보건의료 현황분석을 위한 이차자료원의 종류와 활용방안 보고서]](https://sunghwanji.github.io/assets/pdfs/[경기도공공보건의료지원단] 보건의료 현황분석을 위한 이차자료원의 종류와 활용방안 보고서(최종).pdf)  
 <br>   
-##### 통계 테크닉
+#### 통계 테크닉
 [[다음 글에서]](https://sunghwanji.github.io/2019/09/30/Mathematics-&-Statistics-Nested-Cohort-Study,-Sensitive-Analysis,-E-value.html)

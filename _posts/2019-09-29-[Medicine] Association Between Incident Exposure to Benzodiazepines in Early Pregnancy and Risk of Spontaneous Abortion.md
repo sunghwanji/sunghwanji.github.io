@@ -30,4 +30,4 @@ N수도 많았지만 무엇보다 놀랐던 것은, 각각의 산모가 unique h
 <br>   
 
 #### 통계 테크닉
-[[다음 글에서]](https://sunghwanji.github.io/2019/09/30/Mathematics-&-Statistics-Nested-Cohort-Study,-Sensitive-Analysis,-E-value.html)
+[[(다음 글)[Mathematics & Statistics] Nested Cohort Study, Sensitive Analysis, E-value]](https://sunghwanji.github.io/2019/09/30/Mathematics-&-Statistics-Nested-Cohort-Study,-Sensitive-Analysis,-E-value.html)

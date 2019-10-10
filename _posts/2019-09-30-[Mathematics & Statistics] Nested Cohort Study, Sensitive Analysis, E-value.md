@@ -15,19 +15,19 @@ I. Experimental
  A. Clinical  
  B. Population  
  
-II. Observational
- A. Descriptive
-   1. Disease surveillance and surveys
-   2. Ecological
- B. Analytical
-   1. Longitudinal
-    a. Cohort (follow-up)
-    b. Case-control (case-comparison)
-   2. Cross-sectional
-   
+II. Observational  
+ A. Descriptive  
+   1. Disease surveillance and surveys  
+   2. Ecological  
+ B. Analytical  
+   1. Longitudinal  
+    a. Cohort (follow-up)  
+    b. Case-control (case-comparison)  
+   2. Cross-sectional  
+<br>
  연구자의 개입 유무에 따라 I.Experimental Study와 II.Observational Study를 나눌 수 있다.  
  연구 시작 전 명확한 가설의 유무에 따라 II-A. Descriptive Study와 II-B. Analytical Study를 나눌 수 있다.  
-
+<br>
 **Nested Cohort Study는 II-B.Observational Analytical Study의 variant 중 하나이다.**  
 <br>
 ##### 2. Observational Analytical Study  

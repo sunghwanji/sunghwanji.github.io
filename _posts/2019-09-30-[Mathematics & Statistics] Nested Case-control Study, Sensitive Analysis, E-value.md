@@ -1,5 +1,5 @@
 ---
-title : "[Mathematics & Statistics] Nested Cohort Study, Sensitive Analysis, E-value"
+title : "[Mathematics & Statistics] Nested Case-control Study, Sensitive Analysis, E-value"
 tags:
   - Mathematics & Statistics
 use_math: false
@@ -11,19 +11,19 @@ use_math: false
 ### I. Nested Cohort Study
 ##### 1. Types of Epidemiological Studies
 역학연구(Epidemiological Study)는 아래와 같이 나눌 수 있다.(Adapted from Monson (1990).)  
-I. Experimental  
- A. Clinical  
- B. Population  
+1. Experimental  
+  1. Clinical  
+  1. Population  
  
-II. Observational  
- A. Descriptive  
-   a. Disease surveillance and surveys  
-   b. Ecological  
- B. Analytical  
-   c. Longitudinal  
-    ㄱ. Cohort (follow-up)  
-    ㄴ. Case-control (case-comparison)  
-   d. Cross-sectional  
+1. Observational  
+  1. Descriptive  
+    1. Disease surveillance and surveys  
+    1. Ecological  
+  1. Analytical  
+    1. Longitudinal  
+      1. Cohort (follow-up)  
+      1. Case-control (case-comparison)  
+    1. Cross-sectional  
 <br>
  연구자의 개입 유무에 따라 I.Experimental Study와 II.Observational Study를 나눌 수 있다.  
  연구 시작 전 명확한 가설의 유무에 따라 II-A. Descriptive Study와 II-B. Analytical Study를 나눌 수 있다.  

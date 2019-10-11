@@ -17,13 +17,13 @@ use_math: false
  
 2. Observational  
   + Descriptive  
-    + Disease surveillance and surveys  
-    + Ecological  
+      + Disease surveillance and surveys  
+      + Ecological  
   + Analytical  
-    + Longitudinal  
+   + Longitudinal  
       + Cohort (follow-up)  
       + Case-control (case-comparison)  
-    + Cross-sectional  
+   + Cross-sectional  
 <br>
  연구자의 개입 유무에 따라 I.Experimental Study와 II.Observational Study를 나눌 수 있다.  
  연구 시작 전 명확한 가설의 유무에 따라 II-A. Descriptive Study와 II-B. Analytical Study를 나눌 수 있다.  

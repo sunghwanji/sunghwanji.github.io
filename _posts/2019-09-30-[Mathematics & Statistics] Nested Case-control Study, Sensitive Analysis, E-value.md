@@ -12,18 +12,18 @@ use_math: false
 ##### 1. Types of Epidemiological Studies
 역학연구(Epidemiological Study)는 아래와 같이 나눌 수 있다.(Adapted from Monson (1990).)  
 1. Experimental  
-  1. Clinical  
-  1. Population  
+  1-1. Clinical  
+  1-2. Population  
  
-1. Observational  
-  1. Descriptive  
-    1. Disease surveillance and surveys  
-    1. Ecological  
-  1. Analytical  
-    1. Longitudinal  
-      1. Cohort (follow-up)  
-      1. Case-control (case-comparison)  
-    1. Cross-sectional  
+2. Observational  
+  2-1. Descriptive  
+    2-1-1. Disease surveillance and surveys  
+    2-1-2. Ecological  
+  2-2. Analytical  
+    2-2-1. Longitudinal  
+      2-2-1-1. Cohort (follow-up)  
+      2-2-1-2. Case-control (case-comparison)  
+    2-2-2. Cross-sectional  
 <br>
  연구자의 개입 유무에 따라 I.Experimental Study와 II.Observational Study를 나눌 수 있다.  
  연구 시작 전 명확한 가설의 유무에 따라 II-A. Descriptive Study와 II-B. Analytical Study를 나눌 수 있다.  

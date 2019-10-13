@@ -1,5 +1,5 @@
 ---
-title : "[Mathematics & Statistics] Nested Case-control Study, Sensitive Analysis, E-value"
+title : "[Mathematics & Statistics] Nested Cohort Study, Sensitive Analysis, E-value"
 tags:
   - Mathematics & Statistics
 use_math: false
@@ -8,25 +8,25 @@ use_math: false
 [(이전글)
 [Medicine] Association Between Incident Exposure to Benzodiazepines in Early Pregnancy and Risk of Spontaneous Abortion](https://sunghwanji.github.io/2019/09/29/Medicine-Association-Between-Incident-Exposure-to-Benzodiazepines-in-Early-Pregnancy-and-Risk-of-Spontaneous-Abortion.html)에서 리뷰한 논문의 몇가지 통계적 테크닉들에 대한 포스팅.  
 <br>
-### I. Nested Case-control Study
+### I. Nested Cohort Study
 ##### 1. Types of Epidemiological Studies
 역학연구(Epidemiological Study)는 아래와 같이 나눌 수 있다.(Adapted from Monson (1990).)  
-1. Experimental  
-  - Clinical  
-  - Population  
+I. Experimental  
+ A. Clinical  
+ B. Population  
  
-2. Observational  
-  - Descriptive  
-     - Disease surveillance and surveys  
-     - Ecological  
-  - Analytical  
-     - Longitudinal  
-           - Cohort (follow-up)  
-           - Case-control (case-comparison)  
-     - Cross-sectional  
+II. Observational  
+ A. Descriptive  
+   a. Disease surveillance and surveys  
+   b. Ecological  
+ B. Analytical  
+   c. Longitudinal  
+    ㄱ. Cohort (follow-up)  
+    ㄴ. Case-control (case-comparison)  
+   d. Cross-sectional  
 <br>
-
-연구자의 개입 유무에 따라 I.Experimental Study와 II.Observational Study를 나눌 수 있으며, 연구 시작 전 명확한 가설의 유무에 따라 II-A. Descriptive Study와 II-B. Analytical Study를 나눌 수 있다.  
+ 연구자의 개입 유무에 따라 I.Experimental Study와 II.Observational Study를 나눌 수 있다.  
+ 연구 시작 전 명확한 가설의 유무에 따라 II-A. Descriptive Study와 II-B. Analytical Study를 나눌 수 있다.  
 <br>
 **Nested Cohort Study는 II-B.Observational Analytical Study의 variant 중 하나이다.**  
 <br>
@@ -43,5 +43,3 @@ Cohort 안의 Case-control Study라고 볼 수 있다.  follow-up과정 중에 c
 이 연구 디자인은 주로 exposure of interest가 측정하기 어렵거나, outcome이 드물 때 사용한다.  
 
 ##### 4. Example  
-
- 

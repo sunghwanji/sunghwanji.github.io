@@ -51,7 +51,8 @@ Cohort 안의 Case-control Study라고 볼 수 있다.  follow-up과정 중에 c
 주로, research question에 적절한 cohort를 갖고 있으며, 그 data의 subset을 구성하여 분석함으로서 효율적이며, statistical power를 잃지 않을 때 사용할 수 있다.  
 <br>
 ##### 5. Example 
-[Image](https://imgur.com/WUEqVff)
+[Image](https://i.imgur.com/SFBdtD4.png "Flow chart"){:.aligncenter}
+
 내가 리뷰한 논문을 보면, 
 
 <br>

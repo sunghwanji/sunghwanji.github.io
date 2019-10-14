@@ -41,7 +41,7 @@ d. Case-cohort Study
 ##### 3. Nested Case-control Study
 이 연구에서 쓰인 Nested-cohort Study는,  
 Cohort 안의 Case-control Study라고 볼 수 있다.  follow-up과정 중에 case가 생기면(즉, 질병이 발생하면) 그 시점에 age 등의 변수를 맞추어 control을 배정해 준다.(대략 1:4-5의 비율로)  
-이 연구 디자인은 주로 exposure of interest가 측정하기 어렵거나(비싸거나), outcome이 드물 때 사용한다.  
+이 연구 디자인은 주로 exposure of interest가 측정하기 어렵거나(비싸거나), case가 드물 때 사용한다.  
 <br>
 ##### 4. Advantages
 1. control이 case와 같은 population에서 추출된다.  
@@ -54,8 +54,24 @@ Cohort 안의 Case-control Study라고 볼 수 있다.  follow-up과정 중에 c
 ##### 5. Example 
 ![그림](https://i.imgur.com/SFBdtD4.png "Flow chart"){:.aligncenter}
 <br>
-내가 리뷰한 논문을 보면, Quebec Pregnancy Cohort에서 exclusion criteria에 해당하는 산모를 제외한 262,070명의 산모 중 7%의 Spontaneous abortion 군에서 제태연령 6주~19주에 일어난 27,149명의 산모가 Case였다. Spontaneous abortion이 일어나지 않은 233,530명의 산모 중 Case와 나이,제태연령으로 1:5로 matching 한 134,305명의 산모가 Control로 배정이 되었다.  
+내가 리뷰한 논문을 보면, Quebec Pregnancy Cohort에서 exclusion criteria에 해당하는 산모를 제외한 262,070명의 산모 중 7%의 Spontaneous abortion(자연유산) 군에서 제태연령 6주~19주에 일어난 27,149명의 산모가 Case였다. Spontaneous abortion이 일어나지 않은 233,530명의 산모 중 Case와 나이,제태연령으로 1:5로 matching 한 134,305명의 산모가 Control로 배정이 되었다.  
 <br>
 즉, 하나의 코호트 안에서 case-control study를 한 nested case-control study의 예시였다.  
 <br>
-##### 6. 
+##### 6. Why did they need this method ?
+위에서 보았듯이, nested case-control study는 case이외의 집단 중 일부만을 control로 선정함으로서 크게 두가지 경우에 이득을 얻는다.  
+<br>
+1. cohort에서 case의 비율이 굉장히 작을 때  
+2. exposrue of interest가 측정하기 어려울 때(비쌀 때)  
+  
+그럼 왜 이 연구자들은 이 연구방법을 썼을까?  
+spontaneous abortion이 일어난 7%가 그렇게 적어보이지도 않으며, exposure of interest인 benzodiazepine 노출력은 청구데이터로 얻었기 때문에 모든 개개인에 대해 데이터가 있을 것 같다.  
+  
+궁금증을 해결하기 위해 학부 때 nested case-control study에 대해 강의해주셨던 한양의대 예방의학과 김미경 교수님께 메일을 드렸고 아래와 같은 대답을 얻었다.  
+  
+>> 1. 7%의 발생을 rare하다고 말할 수 있는가?   
+발생을 관찰 할 때 딱 잘라 몇 %를 기준으로 rare와 common을 구분하기는 어렵지만, 보통 10%를 기준으로 말하기는 한다.   
+>> 2. exposure of interest가 측정하기 어려운가?  
+nested case-contorl study는 expensive한 biomarker를 측정해야할 때 많이 쓴다. 그런데 이 논문은 그런 연구는 아니다.  
+>> 3. 그럼 왜 썼을까?  
+대상자의 관찰기간이 1998에서 2015로 상당히 긴 기간 cohort가 구축된 것이고 pregance loss가 일어난 시점과 전혀 다른 시점의 대상자들이 비교가 되면 교란변수로 측정되지 않은 너무 많은 인자들이 개입될 수 있다고 본 것 같고 loss가 일어난 월령 또한 주요한 confounder로 본 것 같다. 그래서 matching으로  gestational age 와 calendar year를 이용해서 이와 관련된 confounders를 미리 잡고 분석을 하겠다는 의도로 해석된다.

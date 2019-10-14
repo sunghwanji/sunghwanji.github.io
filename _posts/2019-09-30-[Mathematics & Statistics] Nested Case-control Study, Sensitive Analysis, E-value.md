@@ -53,7 +53,6 @@ Cohort 안의 Case-control Study라고 볼 수 있다.  follow-up과정 중에 c
 <br>
 ##### 5. Example 
 <img src="https://i.imgur.com/SFBdtD4.png" alt="Flow chart" style="display:block;margin:0 auto;">
-![그림](https://i.imgur.com/SFBdtD4.png "Flow chart"){:.aligncenter}  
 <br>
 내가 리뷰한 논문을 보면, Quebec Pregnancy Cohort에서 exclusion criteria에 해당하는 산모를 제외한 262,070명의 산모 중 7%의 Spontaneous abortion(자연유산) 군에서 제태연령 6주~19주에 일어난 27,149명의 산모가 Case였다. Spontaneous abortion이 일어나지 않은 233,530명의 산모 중 Case와 나이,제태연령으로 1:5로 matching 한 134,305명의 산모가 Control로 배정이 되었다.  
 <br>

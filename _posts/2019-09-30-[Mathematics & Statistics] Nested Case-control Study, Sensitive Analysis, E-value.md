@@ -11,6 +11,7 @@ use_math: false
 ### I. Nested Cohort Study
 ##### 1. Types of Epidemiological Studies
 역학연구(Epidemiological Study)는 아래와 같이 나눌 수 있다.(Adapted from Monson (1990).)  
+<br>
 I. Experimental  
 &nbsp;&nbsp;A. Clinical  
 &nbsp;&nbsp;B. Population  
@@ -40,6 +41,18 @@ d. Case-cohort Study
 ##### 3. Nested Case-control Study
 이 연구에서 쓰인 Nested-cohort Study는,  
 Cohort 안의 Case-control Study라고 볼 수 있다.  follow-up과정 중에 case가 생기면(즉, 질병이 발생하면) 그 시점에 age 등의 변수를 맞추어 control을 배정해 준다.(대략 1:4-5의 비율로)  
-이 연구 디자인은 주로 exposure of interest가 측정하기 어렵거나, outcome이 드물 때 사용한다.  
+이 연구 디자인은 주로 exposure of interest가 측정하기 어렵거나(비싸거나), outcome이 드물 때 사용한다.  
+<br>
+##### 4. Advantages
+1. Control이 Case와 같은 population에서 추출된다.  
+2. 위에서 보았듯이, full cohort study보다 시간과 비용의 측면에서 효율적이다.  
+3. 노출에 대한 데이터를 대체로 진단 이전에 모으기 때문에 conventional case-control study에 비해 cause-effect interpretation에 적합하며, recall bias가 문제되지 않는다.    
+<br>
+주로, research question에 적절한 cohort를 갖고 있으며, 그 data의 subset을 구성하여 분석함으로서 효율적이며, statistical power를 잃지 않을 때 사용할 수 있다.  
+<br>
+##### 5. Example 
+[Image](https://imgur.com/WUEqVff)
+내가 리뷰한 논문을 보면, 
 
-##### 4. Example  
+<br>
+##### 6. 

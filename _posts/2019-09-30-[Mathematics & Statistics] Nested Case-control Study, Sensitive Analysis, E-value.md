@@ -44,16 +44,18 @@ Cohort 안의 Case-control Study라고 볼 수 있다.  follow-up과정 중에 c
 이 연구 디자인은 주로 exposure of interest가 측정하기 어렵거나(비싸거나), outcome이 드물 때 사용한다.  
 <br>
 ##### 4. Advantages
-1. Control이 Case와 같은 population에서 추출된다.  
-2. 위에서 보았듯이, full cohort study보다 시간과 비용의 측면에서 효율적이다.  
+1. control이 case와 같은 population에서 추출된다.  
+2. **full cohort study보다 시간과 비용의 측면에서 효율적이다.**  
 3. 노출에 대한 데이터를 대체로 진단 이전에 모으기 때문에 conventional case-control study에 비해 cause-effect interpretation에 적합하며, recall bias가 문제되지 않는다.    
 <br>
+
 주로, research question에 적절한 cohort를 갖고 있으며, 그 data의 subset을 구성하여 분석함으로서 효율적이며, statistical power를 잃지 않을 때 사용할 수 있다.  
 <br>
 ##### 5. Example 
 [Image](https://i.imgur.com/SFBdtD4.png "Flow chart"){:.aligncenter}
-
-내가 리뷰한 논문을 보면, 
-
+<br>
+내가 리뷰한 논문을 보면, Quebec Pregnancy Cohort에서 exclusion criteria에 해당하는 산모를 제외한 262,070명의 산모 중 7%의 Spontaneous abortion 군에서 제태연령 6주~19주에 일어난 27,149명의 산모가 Case였다. Spontaneous abortion이 일어나지 않은 233,530명의 산모 중 Case와 나이,제태연령으로 1:5로 matching 한 134,305명의 산모가 Control로 배정이 되었다.  
+<br>
+즉, 하나의 코호트 안에서 case-control study를 한 nested case-control study의 예시였다.  
 <br>
 ##### 6. 

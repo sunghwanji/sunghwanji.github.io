@@ -75,7 +75,7 @@ spontaneous abortion이 일어난 7%가 그렇게 적어보이지도 않으며, 
 nested case-contorl study는 expensive한 biomarker를 측정해야할 때 많이 쓴다. 그런데 이 논문은 그런 연구는 아니다.  
 >>> 3. 그럼 왜 썼을까?  
 대상자의 관찰기간이 1998에서 2015로 상당히 긴 기간 cohort가 구축된 것이고 pregance loss가 일어난 시점과 전혀 다른 시점의 대상자들이 비교가 되면 교란변수로 측정되지 않은 너무 많은 인자들이 개입될 수 있다고 본 것 같고 loss가 일어난 월령 또한 주요한 confounder로 본 것 같다. 그래서 matching으로  gestational age 와 calendar year를 이용해서 이와 관련된 confounders를 미리 잡고 분석을 하겠다는 의도로 해석된다.  
-
+<br>
 ### II. Sensitive Analysis
 
 ### III. E-Value

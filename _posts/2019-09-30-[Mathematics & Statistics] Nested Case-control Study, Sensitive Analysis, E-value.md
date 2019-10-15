@@ -67,7 +67,7 @@ Cohort 안의 Case-control Study라고 볼 수 있다.  follow-up과정 중에 c
 그럼 왜 이 연구자들은 이 연구방법을 썼을까?  
 spontaneous abortion이 일어난 7%가 그렇게 적어보이지도 않으며, exposure of interest인 benzodiazepine 노출력은 청구데이터로 얻었기 때문에 모든 개개인에 대해 데이터가 있을 것 같다.  
   
-궁금증을 해결하기 위해 학부 때 nested case-control study에 대해 강의해주셨던 한양의대 예방의학과 김미경 교수님께 메일을 드렸고 아래와 같은 대답을 얻었다.  
+궁금증을 해결하기 위해 학부 때 nested case-control study에 대해 강의해주셨던 한양의대 예방의학교실 김미경 교수님께 메일을 드렸고 아래와 같은 대답을 얻었다.  
   
 >>> 1. 7%의 발생을 rare하다고 말할 수 있는가?   
 발생을 관찰 할 때 딱 잘라 몇 %를 기준으로 rare와 common을 구분하기는 어렵지만, 보통 10%를 기준으로 말하기는 한다.   

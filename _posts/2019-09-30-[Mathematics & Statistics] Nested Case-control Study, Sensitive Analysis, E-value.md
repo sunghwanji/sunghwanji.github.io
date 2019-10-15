@@ -69,11 +69,11 @@ spontaneous abortion이 일어난 7%가 그렇게 적어보이지도 않으며, 
   
 궁금증을 해결하기 위해 학부 때 nested case-control study에 대해 강의해주셨던 한양의대 예방의학과 김미경 교수님께 메일을 드렸고 아래와 같은 대답을 얻었다.  
   
->> 1. 7%의 발생을 rare하다고 말할 수 있는가?   
+>>> 1. 7%의 발생을 rare하다고 말할 수 있는가?   
 발생을 관찰 할 때 딱 잘라 몇 %를 기준으로 rare와 common을 구분하기는 어렵지만, 보통 10%를 기준으로 말하기는 한다.   
->> 2. exposure of interest가 측정하기 어려운가?  
+>>> 2. exposure of interest가 측정하기 어려운가?  
 nested case-contorl study는 expensive한 biomarker를 측정해야할 때 많이 쓴다. 그런데 이 논문은 그런 연구는 아니다.  
->> 3. 그럼 왜 썼을까?  
+>>> 3. 그럼 왜 썼을까?  
 대상자의 관찰기간이 1998에서 2015로 상당히 긴 기간 cohort가 구축된 것이고 pregance loss가 일어난 시점과 전혀 다른 시점의 대상자들이 비교가 되면 교란변수로 측정되지 않은 너무 많은 인자들이 개입될 수 있다고 본 것 같고 loss가 일어난 월령 또한 주요한 confounder로 본 것 같다. 그래서 matching으로  gestational age 와 calendar year를 이용해서 이와 관련된 confounders를 미리 잡고 분석을 하겠다는 의도로 해석된다.  
 
 ### II. Sensitive Analysis

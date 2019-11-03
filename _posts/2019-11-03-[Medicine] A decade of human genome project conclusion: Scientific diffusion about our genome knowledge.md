@@ -1,5 +1,5 @@
 ---
-title : "[Medicine] Human Genome Project와 그 시기의 연구들로 인류가 알게된 것"
+title : "[Medicine] Human Genome Project와 그 시기의 연구들로 알게된 것"
 tags:
   - Mathematics & Statistics
 use_math: false

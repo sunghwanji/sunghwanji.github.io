@@ -1,5 +1,5 @@
 ---
-title : "[Medicine] Human Genome Project와 그 시기의 연구들로 알게된 것"
+title : "[Medicine] A decade of human genome project conclusion: Scientific diffusion about our genome knowledge"
 tags:
   - Mathematics & Statistics
 use_math: false

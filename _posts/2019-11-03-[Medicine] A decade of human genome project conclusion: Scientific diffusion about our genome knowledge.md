@@ -19,20 +19,15 @@ HGP는 20개국의 생물학자, 물리학자, 화학자, 공학자들이 모여
   
 13년의 노력 끝에 여러 가지 진보를 이루었다.
 1. nonrelated human genome은 1.2~1.5 DNA base당 1개 꼴로 차이가 났다.  
-2. 40%의 human genome protein은 파리나 벌레의 protein과 비슷했고, 50%의 human gene은 다른 개체들의 genomic sequence와 매우 유사했다. 즉, **human genome은 다른 개체들에 비해 복잡하지도, 특별하지도 않다는 결론을 내릴 수 있었다.**  
-3. **가장 놀라웠던 것은 즉 고작 2만개(30억 base pair의 염기서열 중 고작 2%)의 protein-coding gene만 존재했다.** 이 사실은 HGP의 결과 중 가장 실망스러운 이유 중 하나였다. 그 전에는 10만개는 될 것이라고 예측했기 때문이다.  
+2. 40%의 human genome protein은 파리나 벌레의 protein과 비슷했고, 50%의 human gene은 다른 개체들의 genomic sequence와 매우 유사했다. 즉, **human genome은 다른 개체들에 비해 복잡하지도, 특별하지도 않았다.**  
+3. **가장 놀라웠던 것은 고작 2만개(30억 base pair의 염기서열 중 고작 2%)의 protein-coding gene만 존재한다는 것이었다.** 이 사실은 HGP의 결과 중 가장 실망스러운 이유 중 하나였다. 그 전에는 10만개는 될 것이라고 예측했기 때문이다.  
   
 human genome 을 sequencing 하면 인간의 complexity를 이해할 수 있을 것이라는 기대를 가지고 시작했으나, 많은 의문들이 해결되지 않았다. 생명의 비밀, 유전병에 대한 이해 등을 해결하기 위한 새로운 시작이 필요했다. 그중 하나가 아래의 ENCODE project이다.
 
 ### ENCyclopedia of DNA Elements(ENCODE) Project
-HGP가 끝난 후 새로운 도전이 시작되었다. DNA가 어떻게 작동하는지, 어떤 요소들이 그것을 조절하고 그 조절은 어떻게 일어나는지 등에 대해 궁금해 졌다. 2003년 9월, HGP의 데이터들을 해석하기 위해 ENCODE project가 시작되었다. 이 프로젝트는 human genome의 모든 functional element의 지도를 만드는 것이 목적이었다. 즉, protein-coding gene과 noncoding gene, transcription을 조절하는 요소들 등을 mapping하는 것이었다.  
+HGP가 끝난 후, DNA가 어떻게 작동하는지, 어떤 요소들이 그것을 조절하고 그 조절은 어떻게 일어나는지 등에 대해 궁금해 졌다. 2003년 9월, HGP의 데이터들을 해석하기 위해 ENCODE project가 시작되었다. 이 프로젝트는 human genome의 모든 functional element의 지도를 만드는 것이 목적이었다. 즉, protein-coding gene과 noncoding gene, transcription을 조절하는 요소들 등을 mapping하는 것이었다.  
   
-총 3 단계로 이루어졌다.  
-1. 2003년부터 2007년까지 protein-coding region에 대한 데이터를 만들어 냈으며 genoemic element들의 타입분류를 위한 전략을 세웠다.
-2. 2007년부터 2012년까지 nonfounctional 또는 noncoding region의 99%를 분석했다.
-3. 
-그 결과 human genome은 non-protein coding region또한 기능을 한다는 것을 증명하였다. 우리의 genome은 생각보다 복잡했으며 훨씬 정교한 관점이 필요하였다. gene-centric 개념에 대한 재고가 필요해졌다.   
-
-ENCODE project들에 대한 논란거리는 아직도 존재한다. non-coding but biochemically active region들이 정말로 기능을 하는것일까?  
-
-HGP와 ENCODE project는 인류가 human genome에 대한 이해하는 것에 굉장히 큰 진보를 이룩한 것은 확실하지만, 아직 알아야 할 것이 많은 듯 하다. 
+*여기부터는 이해하기가 힘들었음....*  
+  
+### Final Consideration  
+HGP와 ENCODE project의 결론은, 우리 인간의 complexity는 protein-coding gene에 의존하는 것이 아니고, epigenetics 뿐만 아니라 cellular state의 총체가 유기적으로 연결되어 우리 인간의 복잡성을 만든다는 것이다. 기존의 one-gene one-protein의 central dogma는 새롭게 정의되어야만 한다.

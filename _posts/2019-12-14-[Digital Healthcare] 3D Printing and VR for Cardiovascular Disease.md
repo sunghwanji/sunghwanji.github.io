@@ -5,7 +5,7 @@ tags:
 use_math: false
 ---
 
-[사진](https://imgur.com/zqpqZ84)
+![사진](https://imgur.com/zqpqZ84)
 
 서울아산병원 영상의학과 심장영상 양동현 교수님의 3D프린팅 강의 
   

@@ -5,7 +5,7 @@ tags:
 use_math: false
 ---
 
-![사진](https://imgur.com/zqpqZ84)
+![사진](https://imgur.com/PVTYPdx)
 
 서울아산병원 영상의학과 심장영상 양동현 교수님의 3D프린팅 강의 
   
@@ -26,6 +26,6 @@ use_math: false
 
 교수님의 답변이 저는 꽤 인상적이었다. 모든연구가 RCT가 필요하다고 생각하시지 않으며, 특히 3D프린팅에서는 RCT를 적용하기 너무 어렵다는 답변이었고, 실제로 RCT를 적용하지 않고 신의료기술 평가승인을 받은 예를 알려주셨다.
 
-https://www.dropbox.com/s/2nbgf3sxnz9gmlq/HTA-2019-5%20%ED%99%98%EC%9E%90%20%EB%A7%9E%EC%B6%A4%ED%98%95%203%EC%B0%A8%EC%9B%90%20%EB%AA%A8%ED%98%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%8B%AC%EC%9E%A5%EA%B8%B0%ED%98%95%EC%A7%88%ED%99%98%20%EC%88%98%EC%88%A0%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98.pdf?dl=0
+[링크](https://www.dropbox.com/s/2nbgf3sxnz9gmlq/HTA-2019-5%20%ED%99%98%EC%9E%90%20%EB%A7%9E%EC%B6%A4%ED%98%95%203%EC%B0%A8%EC%9B%90%20%EB%AA%A8%ED%98%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%8B%AC%EC%9E%A5%EA%B8%B0%ED%98%95%EC%A7%88%ED%99%98%20%EC%88%98%EC%88%A0%20%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98.pdf?dl=0)
 
 보내주신 자료이고... 나중에 리뷰해봐야겠다..

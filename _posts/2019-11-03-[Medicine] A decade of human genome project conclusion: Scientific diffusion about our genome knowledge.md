@@ -29,5 +29,25 @@ HGP가 끝난 후, DNA가 어떻게 작동하는지, 어떤 요소들이 그것�
   
 *여기부터는 이해하기가 힘들었음....*  
   
+##### The First Phase of the ENCODE Project
+1. The transcription occurs in almost the whole genome such that most of its bases are committed with at least one primary transcript. Many transcripts link distal loci segments to protein‐coding regions.
+2. Various novel nonprotein coding transcripts were identified. Many of these transcripts originate from overlapping protein‐coding loci and from regions previously considered transcriptionally silent.
+3. Many transcription start sites were identified. Many of them present chromatin structure and protein‐binding specific sequences similar to the well‐known promoters.
+4. The regulatory sequences that surround the transcription start sites are symmetrically distributed, with no bias towards upstream regions.
+5. The accessibility to chromatin and histone modification patterns are highly predictive of both the presence and the activity of transcription start sites.
+6. The DNA replication timing is related to the chromatin structure.
+7. A total of 5% of the bases in the genome can be considered under evolutionary restriction in mammals. For 60% of these bases, there is evidence for function based on results of experimental tests accomplished to date.
+8. A general overlapping between the genomic regions identified as functional by experimental tests and those under evolutionary restriction was not observed.  
+  
+One of the most surprising conclusions from this first phase concerns the remarkable excess of experimentally identified functional elements which lack evolutionary constraint. This means that apparently many functional elements are not restricted to mammal evolution. The consortium suggested the existence of a large pool of neutral elements that are biochemically active, but that do not provide a particular benefit to the organism. This pool may serve as a storage to natural selection, potentially acting as a source of lineage specific elements. As concluded by the consortium, this surprise suggests that we take a more “neutral” view of many of the functions conferred by the genome.  
+##### The Second Phase of the ENCODE Project
+1. Most of the human genome (80.4%) takes part in at least one biochemical RNA and/or chromatin‐associated event in at least one kind of cell. A total of 99% of the known bases in the genome are within 1.7 kb of any ENCODE element, whereas 95% of bases are within 8 kb of a transcription factor binding motif.
+2. The classification of the genome in seven chromatin states (signature pattern of histone modification) pointed out a set of 399.124 regions with enhancer‐like features and 70.292 regions with promoter‐like features as well as a lot of quiescent regions.
+3. It is possible to correlate quantitatively RNA production and processing with both chromatin markers and transcription factor binding at promoters.
+4. Many non‐coding variants in individual genome sequences lie in ENCODE‐annotated functional regions. 5. This number is at least as large as those that lie in protein‐coding genes.
+6. Single nucleotide polymorphisms (SNPs) associated with diseases are located mainly in non‐coding functional elements.  
+  
+Undoubtedly, the verification that the human genome is pervasively transcribed and almost fully active remains as one of the most important molecular biology discoveries.  
+  
 ### Final Consideration  
-HGP와 ENCODE project의 결론은, 우리 인간의 complexity는 protein-coding gene에 의존하는 것이 아니고, epigenetics 뿐만 아니라 cellular state의 총체가 유기적으로 연결되어 우리 인간의 복잡성을 만든다는 것이다. 기존의 one-gene one-protein의 central dogma는 새롭게 정의되어야만 한다.
+HGP와 ENCODE project의 결론은, 우리 인간의 complexity는 protein-coding gene에 의존하는 것이 아니고, epigentics 뿐만 아니라 cellular state의 총체가 유기적으로 연결되어 우리 인간의 복잡성을 만든다는 것이다. 기존의 one-gene one-protein의 central dogma는 새롭게 정의되어야만 한다.

@@ -40,12 +40,11 @@ eat <...> for breakfast/lunch/dinner
 ##### 9. 옷을 갈아입다 : change (get changed)
 ! 집으로 돌아왔을 떄 (<-> get dressed)
 
-##### 저녁을 먹다 : eat dinner / have dinner 
+##### 10. 저녁을 먹다 : eat dinner / have dinner 
   
-##### TV를 보다 : watch tv
+##### 11. TV를 보다 : watch tv
 ! watched tv와 발음이 같음  
   
-##### 자다 : go to bed 
+##### 12. 자다 : go to bed 
 ! sleep 말고
-
 

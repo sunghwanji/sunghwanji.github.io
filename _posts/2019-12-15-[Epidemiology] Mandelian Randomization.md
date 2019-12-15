@@ -8,6 +8,7 @@ use_math: false
 굉장히 흥미로운 연구방법이 있어서 공유  
 [링크](https://www.youtube.com/watch?v=LXsrJg9shsI&feature=youtu.be)   
   
+### Mendelian Randomization
 의학연구자들들은 causation에 관심이 많다. A(exposure)가 B(outcome)라는 질병을 일으킨다면, A를 조절하면 B를 예방할 수 있기 때문이다.  
 근데, A(exposure)와 B(outcome) 모두에 영향을 미치는 C라는 변수(역학적으로는 교란변수(confounder)라고 한다.)가 있다면 C의 영향을 보정해줘야한다.
 
@@ -29,3 +30,14 @@ Mendelian Randomization(MR)은 굉장히 재밌는 방법으로 이 문제를 �
 만약, low Vit D 와 높은골절위험의 association이 excercise같은 다른 교란변수들에 의한 것이라면 그 유전자와 골절위험은 무관할 것이다.  
   
 굉장히 기발한 방법이다 !!!!
+  
+### Assessment of the genetic and clinical determinants of fracture risk: genome wide association and mendelian randomisation study
+Mendelian Randomization을 아주 잘 적용한 논문이 있다.  
+
+
+
+### 감상
+1. RCT
+
+2. 질병의 원인연구 
+monogenic disorder(유전자 하나로 결정되는 질병)을 제외하면 대부분의 질병은 유전+환경+(그 둘의 상호작용)으로 아주 복잡하게 결정된다. 그러나 이것을 모두 고려하는 연구는 어려웠다. 그래서 

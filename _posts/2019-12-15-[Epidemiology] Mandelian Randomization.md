@@ -11,8 +11,10 @@ use_math: false
 ### Mendelian Randomization
 의학연구자들들은 causation에 관심이 많다. A(exposure)가 B(outcome)라는 질병을 일으킨다면, A를 조절하면 B를 예방할 수 있기 때문이다.  
 근데, A(exposure)와 B(outcome) 모두에 영향을 미치는 C라는 변수(역학적으로는 교란변수(confounder)라고 한다.)가 있다면 C의 영향을 보정해줘야한다.
-
-예를 들어, 위의 동영상의 예시 처럼, Vit B level이 낮은 것이 골절(fracture)을 일으킨다고 가설을 세우자. 그리고 그것을 증명하기 위해 Vit B level이 낮은사람을 쭉 추적해봤더니 실제로 골절이 많이 생겼다고 하자. 그러나 이것만 가지고는 low Vit B level과 fracutre risk의 association을 본것이지 causation을 본 것이 아니다.  
+  
+![사진](http://jungfrau.co.kr/fileUp/bbs/MR3.jpg)
+예를 들어, 위의 동영상의 예시 처럼, Vit B level이 낮은 것이 골절(fracture)을 일으킨다고 가설을 세우자. 그리고 그것을 증명하기 위해 Vit B level이 낮은사람을 쭉 추적해봤더니 실제로 골절이 많이 생겼다고 하자. 그러나 이것만 가지고는 low Vit B level과 fracutre risk의 association을 본것이지 causation을 본 것이 아니다.   
+![사진](http://jungfrau.co.kr/fileUp/bbs/MR2.jpg)
 excercise라는 교란변수를 생각해볼 수 있다. 운동을 적게하는것 자체가 햇빛 노출을 적게함으로서 Vit D level을 낮추는 동시에, 운동을 적게하는것 자체가 골절의 위험을 높일 수 있기 때문이다.  
 이런 교란변수의 존재가 observational study(연구자의 개입이 없는)의 가장 큰 약점이라고 할 수 있다.  
   

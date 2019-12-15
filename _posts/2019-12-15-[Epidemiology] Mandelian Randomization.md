@@ -24,6 +24,7 @@ excercise라는 교란변수를 생각해볼 수 있다. 운동을 적게하는�
   
 Mendelian Randomization(MR)은 굉장히 재밌는 방법으로 이 문제를 해결한다.  
   
+![사진](http://jungfrau.co.kr/fileUp/bbs/MR.jpg)
 예를들어 Vit D level을 결정하는 유전자가 있다면? 혹은 그런 경향을 갖게하는(predispose) 유전자가 있다면?    
 그런 유전자를 갖는 것은 순전히 random하다. 즉, 환경과 전혀 무관한 우연한 일이다.  
 그럼 만약, low Vit D가 골절위험을 올린다면, 그 유전자를 가진 사람도 걸절위험이 높아야 한다.  

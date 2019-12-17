@@ -41,10 +41,11 @@ eat <...> for breakfast/lunch/dinner
 ! 집으로 돌아왔을 떄 (<-> get dressed)
 
 ##### 10. 저녁을 먹다 : eat dinner / have dinner 
-  
+
+
 ##### 11. TV를 보다 : watch tv
 ! watched tv와 발음이 같음  
-  
+
 ##### 12. 자다 : go to bed 
 ! sleep 말고
 

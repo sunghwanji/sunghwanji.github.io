@@ -18,11 +18,11 @@ use_math: falses
 #### Machine Learning and the Cancer-Diagnosis Problem ? No Gold Standard
 [논문링크](https://www.nejm.org/doi/full/10.1056/NEJMp1907407?query=TOC)
 
-1.  병리이미지에 ML이 쓰이는 원리
+1.  병리이미지에 ML이 쓰이는 원리  
 **지도학습(supervised learning)**. 즉,  인간이 "cancer", "not cancer"로 라벨링(external starndard) 한것을 보고 컴퓨터가 이미지에서 패턴(색, 모양, 모서리)을 학습하는 것이다.
 ![사진](https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2019/nejm_2019.381.issue-24/nejmp1907407/20191206/images/img_small/nejmp1907407_f1.jpeg)
 
-2. 현재의 암진단 : **the lack of a histopathological "gold standard"**
+2. 현재의 암진단 : **the lack of a histopathological "gold standard"**  
 암(cancer)을 어떻게 정의할까? 두가지 관점이 존재한다.  
 
 임상가들은 동적(dynamic)인 정의에 관심이 있다. 임상가들에게 암은 증상(국소적 침투와 원격전이를 통해)을 일으키고 치료하지않을때 사망에 이르게 하는 것이다.  
@@ -38,7 +38,7 @@ ML은 확실히 인간보다 더 일관되고(consistent) 복제가능한(replic
 4. 저자가 제시한 방법  
 어쨌든 ML이 재현성(reproducibility)의 면에서 장점이 있지만 임상가들은 과다진단을 피하고 싶다. 저자는 병리의사들간의 의견불일치정보를 이용하자고 주장한다. 즉, total agreement regarding the presence of cancer, total agreement regarding the absence of cancer, and disagreement regarding whether cancer is present 세가지 분류로 나누자는 것이다.
 
-그럼으로서 세가지의 장점이 있는데,
+그럼으로서 세가지의 장점이 있는데,  
 효율적이다(efficient). 빠르게 위험도를 구분(triage)함으로서 병리의사들이 애매한 병리학적 소견에 집중할 수 있게 한다.  
 솔직하다(honest). 즉 '애매하다'고 진단을 함으로서 임상가들과 환자들이 치료적 개입(intervention)에 보수적으로 할 수 있게한다.  
 신중하다(judicious). 애매한 병변(intermediate lesions)에 대해 더 알아보고 연구할 수 있게 한다.  

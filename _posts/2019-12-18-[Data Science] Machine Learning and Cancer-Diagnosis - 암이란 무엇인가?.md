@@ -19,7 +19,7 @@ use_math: falses
 [논문링크](https://www.nejm.org/doi/full/10.1056/NEJMp1907407?query=TOC)
 
 1.  병리이미지에 ML이 쓰이는 원리  
-  **지도학습(supervised learning)**. 즉,  인간이 "cancer", "not cancer"로 라벨링(external starndard) 한것을 보고 컴퓨터가 이미지에서 패턴(색, 모양, 모서리)을 학습하는 것이다.
+  **지도학습(supervised learning)**. 즉,  인간이 "cancer", "not cancer"로 라벨링(external starndard) 한것을 보고 컴퓨터가 이미지에서 패턴(색, 모양, 모서리)을 학습하는 것이다.  
 ![사진](https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2019/nejm_2019.381.issue-24/nejmp1907407/20191206/images/img_small/nejmp1907407_f1.jpeg)
 
 2. 현재의 암진단 : **the lack of a histopathological "gold standard"**  

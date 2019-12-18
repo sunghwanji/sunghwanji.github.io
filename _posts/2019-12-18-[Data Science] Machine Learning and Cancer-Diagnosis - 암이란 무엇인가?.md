@@ -16,7 +16,7 @@ use_math: falses
 우연히 NEJM(The New England Journal of Medicine)에 실린 글을 읽었는데, 위의 궁금증에 해답을 주지는 못하지만 최근 이슈가 되고있는 머신러닝과 관련해서 고민해 볼만한 글인 것 같아서 포스팅 해보려 한다.  
 
 #### Machine Learning and the Cancer-Diagnosis Problem ? No Gold Standard
-[논문링크](https://www.nejm.org/doi/full/10.1056/NEJMp1907407?query=TOC)
+[논문링크(N Engl J Med 2019; 381:2285-2287 DOI: 10.1056/NEJMp1907407)](https://www.nejm.org/doi/full/10.1056/NEJMp1907407?query=TOC)
 
 1.  병리이미지에 ML이 쓰이는 원리  
   **지도학습(supervised learning)**. 즉,  인간이 "cancer", "not cancer"로 라벨링(external starndard) 한것을 보고 컴퓨터가 이미지에서 패턴(색, 모양, 모서리)을 학습하는 것이다.  

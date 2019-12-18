@@ -12,7 +12,7 @@ use_math: falses
 **암은 어떻게 정의하는것일까?** 현미경적 소견으로 정의하는 것일까? 임상적으로 정의하는 것일까?  
 이게 지금까지 내가 갖고 있던 궁금증이었다.  
 
-우연히 NEJM(The New England Journal of Medicine)에 실린 글을 읽었는데, 위의 궁금증에 해답을 주지는 못하지만 최근 이슈가 되고있는 머신러닝과 관련해서 고민해 볼만한 글인 것 같아서 포스팅 해보려 한다.  
+이번 NEJM(The New England Journal of Medicine)에 실린 글을 읽었는데, 위의 궁금증에 해답을 주지는 못하지만 최근 이슈가 되고있는 머신러닝과 관련해서 고민해 볼만한 글인 것 같아서 포스팅 해보려 한다.  
 
 ### Machine Learning and the Cancer-Diagnosis Problem ? No Gold Standard
 [논문링크(N Engl J Med 2019; 381:2285-2287 DOI: 10.1056/NEJMp1907407)](https://www.nejm.org/doi/full/10.1056/NEJMp1907407?query=TOC)

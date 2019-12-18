@@ -50,4 +50,4 @@ One of the most surprising conclusions from this first phase concerns the remark
 Undoubtedly, the verification that the human genome is pervasively transcribed and almost fully active remains as one of the most important molecular biology discoveries.  
   
 ### Final Consideration  
-HGP와 ENCODE project의 결론은, 우리 인간의 complexity는 protein-coding gene에 의존하는 것이 아니고, epigentics 뿐만 아니라 cellular state의 총체가 유기적으로 연결되어 우리 인간의 복잡성을 만든다는 것이다. 기존의 one-gene one-protein의 central dogma는 새롭게 정의되어야만 한다.
+HGP와 ENCODE project의 결론은, 우리 인간의 complexity는 protein-coding gene에 의존하는 것이 아니고, whole genome 뿐만 아니라 epigentics까지 dynamic하게 우리 인간의 복잡성을 만든다는 것이다. 기존의 one-gene one-protein의 central dogma는 새롭게 정의되어야만 한다.

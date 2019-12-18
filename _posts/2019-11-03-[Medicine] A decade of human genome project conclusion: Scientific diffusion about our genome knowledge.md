@@ -1,7 +1,7 @@
 ---
-title : "[Medicine] A decade of human genome project conclusion: Scientific diffusion about our genome knowledge"
+title : "[Genomics] A decade of human genome project conclusion: Scientific diffusion about our genome knowledge"
 tags:
-  - Mathematics & Statistics
+  - Genomics
 use_math: false
 ---
 

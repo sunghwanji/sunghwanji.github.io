@@ -1,5 +1,5 @@
 ---
-title : "[Medicine] Machine Learning and Cancer-diagnosis - 암이란 무엇인가?"
+title : "[Medicine] Machine Learning and Cancer-Diagnosis - How do we define cancer?"
 tags:
   - Data Science
   - Medicine
@@ -52,3 +52,55 @@ ML은 확실히 인간보다 더 일관되고(consistent) 복제가능한(replic
 그럼 지금 우리가 암이라고 진단하고 있는 현미경적 소견은 어떻게 증명된것일까? '이런 모양인 경우는 통계를 내보니 임상적으로 암이더라..'이런식으로 증명한것인가....(내가 병리실습을 안돌아서..ㅎㅎ)  
 
 나중에 수련받을 때 여쭤봐야겠다...
+  
+  
+  
+### My Question : How do we define cancer ?
+In 2016, a specific type of thyroid cancer became recognized as a benign tumor. Some ovarian tumors are diagnosed as borderline, not malignant neither benign. I recently learned during the rotation in the thoracic surgery department that we see all of the thymoma, some of which were recognized as as a benign tumor, malignant. The 5-year survival rate of a certain cancer is almost 100%.  
+
+**How do we define cancer?** Do we define them by microscopic findings? Or, Do we define them clinically?  
+
+This was the question I've had so far.  
+
+Recently, I've read an article from NEJM(The New England Journal of Medicine). I'm going to post about it since i think it is worth to consider.  
+
+### Machine Learning and the Cancer-Diagnosis Problem ? No Gold Standard
+[Article(N Engl J Med 2019; 381:2285-2287 DOI: 10.1056/NEJMp1907407)](https://www.nejm.org/doi/full/10.1056/NEJMp1907407?query=TOC)
+##### 1. Principles of Using Machine Learning to Pathology
+Most machine learning algorithms used in pathology are trained by means of a process called **supervised learning**. In other words, the computer is presented with images and learns patterns(color, character, margin) from external standards(cancer vs not cancer) which have been labeled by humans.  
+
+##### 2. Cancer Diagnosis of Today : the Lack of a Histopathological "Gold Standard"
+What constitutes cancer? There are 2 points of view.  
+
+Clinicians are interested in dynnamic definition. For clinicians, cancer is a tumor which causes symptoms through local infiltration and distant metastasis and leads to death if left untreated.  
+
+On the other hand, pathologists are interested in static definition. They define cancers by the appearance of cells, surrounding tissue architecture, and various biomarkers.  
+
+In particular, the issue of cancer definition is highlighted in the interobserver disagreement issue among pathologists. That is, there is a mismatch among pathologists about which is clinically meaningful cancer.(Especially in prostate, thyroid, breast lesion and malignant melanoma) Recently, since pathologists are required to diagnosis early cancer, they should judge on subtle microscopic findings. Sometimes, that cancer doesn't fit the clinical definition.  
+
+##### 3. Then, What Machine Learning Can Do ?
+Machine learning(ML) cannot solve the problem above since it relies on external standards, labeled by humans.  
+
+Diagnoses of ML will undoubtedly be more consistent and more replicable than those based on human interpretation. However, it won't necessarily be closer to the truth. In other words, ML may not be any better than humans at determining which tumors are destined to cause symptoms or death. Rather, the author argues that if ML fails to improve the accuracy of diagnosis but increases the efficiency, it will exacerbate the problem of **over-diagnosis**.  
+
+##### 4. The Author's Suggestion
+
+Clinicians want to avoid overdiagnosis, though ML has the merit of reproducibility. The author suggests to use the information of disagreement. In other words, using 3 categories;  total agreement regarding the presence of cancer, total agreement regarding the absence of cancer, and disagreement regarding whether cancer is present  
+
+The advantages to using these are:  
+
+It would be efficient. It helps pathologists to focus on equivocal findings by immediately triaging slides.  
+
+It would be honest. It enables clinicians and patients to consider more conservative treatment options by telling them the lesions are ambiguous.  
+
+It would be judicious. We can study and explore further for intermediate lesions.  
+
+The most important question to everyone is **"Does the cancer affects the quality and length of the patient's life?"**  
+The author argues that by highlighting these gray areas, we can emphasize the strength and ameliorate the weakness of ML. Finally, we can get closer to the answer about what constitutes the **'true' cancer**.  
+
+### Unsolved Questions
+After reading this article, I realized that what is important for us is to diagnose **"clinically meaningful cancer"**, no matter how it looks microscopically. Anyhow, the current best diagnostic method for clinically defined cancer is to look at it microscopically.   
+
+If this is the case, how did the microscopic findings that we recognized as markers for cancer have been proven? Do we prove them through statistical analysis, finding the correlation of the findings and clinical outcomes?  
+
+These are the questions I have to solve during my residency.  

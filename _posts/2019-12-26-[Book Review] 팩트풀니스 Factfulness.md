@@ -105,6 +105,21 @@ C: 더 추워질 거라고 예상한다.
 이러한 이유에서 오는 부정본능을 억제해야 한다.  
 
 ##### 3. 직선본능
+![그래프](https://post-phinf.pstatic.net/MjAxOTAyMTFfOTMg/MDAxNTQ5ODc1MDk2ODA2.6koOfwHckM0SxhYFr9n2tcWXRyPISqHTYqXDeBzLGr4g.3fscKvYf9b9B4ImFcvYyc6hS3gjpipmr4dhiWgC8E58g.PNG/117%EC%AA%BD_%EC%A7%81%EC%84%A0%EB%B3%B8%EB%8A%A5.png?type=w1200)  
+세계인구는 '단지' 증가할 뿐? 그래서 인구 성장을 막아야 한다?  
+사실 문제 5. 오늘날 세계 인구 중 0~15세 아동은 20억이다. 유엔이 예상하는 2100년의 이 수치는 얼마일까? 위 세계의 점선 중 하나만 유엔의 공식 예상치.  
+이 문제는 일반인이든, 세계 경제포럼 전문가든 이 문제의 정답률은 찍는것만 못했다. (답은 C)  
+![그래프](https://post-phinf.pstatic.net/MjAxOTAyMTFfMjMw/MDAxNTQ5ODc1ODUyMTgw.P5hsPyUZs-6WmacRMfrng4gVHFCYJAv6VHaaArv9YAwg.iEzvNFIDGtvc0UE-JZZ2k7rMSepXfJsEDoV3acmyZU8g.PNG/124%EC%AA%BD_%EC%9C%A0%EC%97%94%EC%98%88%EC%B8%A1.png?type=w1200)  
+사실문제 6. 유엔은 2100년까지 세계 인구가 40억 늘어날 것으로 예상한다. 주로 어떤 인구층이 늘어날까?  
+A. 아동인구(15세 미만) B. 성인 인구(15~74세) C. 노인 인구 (75세 이상)  
+급격한 인구 성장을 멈추는 데 필요한 급격한 변화는 아동 인구 성장을 멈추는 것이며, 이러한 변화는 이미 진행중이다. 어떻게 이럴 수 있을까?  
+다음은 이 책에서 가장 극적인 표다.  
+![그래프](https://post-phinf.pstatic.net/MjAxOTAyMTFfMjM3/MDAxNTQ5ODc1OTI3Nzcz.lhfGFjtybWGbV4lHxGWdl1kAWdsiiwG6gAb8raDZ8JUg.N_YAIqwMFBzDNxkA3jPCTV4Hxw31yYzC_A53nMMU83Mg.PNG/125%EC%AA%BD_1%EC%9D%B8%EC%97%AC%EC%84%B1%EC%B6%9C%EC%83%9D%EC%95%84.png?type=w1200)  
+수십억 인구가 극빈층을 탈출하면서 이들 대부분이 아이를 적게 낳기로 결심했다. 대가족이 필요없게 되었고, 여성과 남성이 교육받기 시작하면서 소수의 아이를 잘 키우고 싶은 욕구가 생겼다. 이러한 목표는 현대 피임법의 놀라운 축복 덕분에 쉽게 달성되었다.  
+즉, 극빈층 탈출이 계속 이어지고 교육받는 여성이 늘어나고, 피임법 사용과 성교육이 꾸준히 증가하는 한 과도한 인구성장은 하지 않아도 될 걱정이라는 것이다.  
+
+이 장에서 말하고자 하는 것은 모든 선이 다 직선은 아니며 S자 형태, 낙타 혹 같은 형태 등 다양하며, 우리가 그 곡선의 어느 부분을 보고 있는지 잘 봐야 한다는 것이다.  
+
 
 
 

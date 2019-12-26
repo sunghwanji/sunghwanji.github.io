@@ -1,5 +1,5 @@
 ---
-title : "[English] 영어회화 I 표현 I "다행이다"를 영어로 표현하는 3가지 방식"
+title : "[English] ddd"
 tags:
   - English
 use_math: false
@@ -19,3 +19,5 @@ That is (so) relieving.  (It is, This is ~)
 너가 그걸 말하길 잘했다. It's a good thing that you mentioned that.  
 내가 그거에 대해서 뭐라고 하길 잘했네. It's a good thing I said something about that.  
 그걸 미리 확인해보길 잘했다. It's a good thing I checked first.  
+
+영어회화 I 표현 I "다행이다"를 영어로 표현하는 3가지 방식

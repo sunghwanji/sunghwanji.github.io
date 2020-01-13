@@ -8,7 +8,7 @@ use_math: falses
 2020.01.14 연세대학교 신촌세브란스 병원에서, 용인세브란스 병원 개원 기념으로 심포지엄을 열었다. AI Medicine & Digital Hospital Joint Symposium이라는 이름으로 Cleveland Clinic과의 Joint Symposium이었다. 사실상, 두 기관에서 진행되는 Data Science 연구들을 소개하는 자리인듯 했다.
 
 # Session I. Clinical application of AI and Digital Technology
-### Translational Machine Learning and AI Approachese for Precesion Oncology - From Tissue to Single Cell and More (Tae Hyun Hwang, Cleveland Clinic)
+### Translational Machine Learning and AI Approaches for Precesion Oncology - From Tissue to Single Cell and More (Tae Hyun Hwang, Cleveland Clinic)
   
   
 ##### 1. 어떤 환자에게 면역항암제를 써야할까?  

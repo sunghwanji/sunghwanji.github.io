@@ -72,10 +72,25 @@ breast cancer screening에 쓰이는 mammography 판독을 딥러닝모델이 �
 (Harwood and Teale, Int J Geriatr Psychiatry, 2018)  
 즉, 위와같은 특성때문에 현재 delirium을 제대로 진단하고 management 하기 힘들다.  
 
-Delirium affects 20~40% of ICU patients  
--> Prolonged ICU stay and mortality  
-
 **Delirium을 detection 혹은 prediction할 수 있는 biomarker가 있을까?**  
+
+delirium환자에서 heart rate variabilty가 증가되어 있다는 선행연구를 바탕으로 연구디자인을 함.  
+  
+Heart rate variability(HRV)와 Machine Learning으로 Delirium 과 Non-Delirium을 구분할 수 있을까?  
+
+매일 아침 정신과의사가 delirium을 evaluation하고, 간호사가 하루 세번 평가를 하고 그 데이터로 학습을 시킴.  
+  
+결과 : 연구자의 HRV with machine learning으로 만든 알고리즘이  massive amounts of clinical information으로 예측하는것과 비슷했다.  
+  
+**즉, 매일 아침 정신과 의사가 delirium인지 평가 하지 않아도 HRV라는 biomarker로 delirium을 detection 할 수 있겠다..**  
+
++) 연자는 정신과 의사였지만, machine learning으로 ICU mortality를 예측하는 연구에 대해서도 설명해 주셨다. delirium 예측보다 더 잘되는듯.  
+
+
+
+
+
+
 
 
 

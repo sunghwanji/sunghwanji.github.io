@@ -86,9 +86,19 @@ Heart rate variability(HRV)와 Machine Learning으로 Delirium 과 Non-Delirium�
 
 +) 연자는 정신과 의사였지만, machine learning으로 ICU mortality를 예측하는 연구에 대해서도 설명해 주셨다. delirium 예측보다 더 잘되는듯.  
 
-**느낀점 : 우리가 배우는 질병에는 임상적으로(환자의 병력과 신체진찰만으로) 진단하는 질병이 꽤 많다. 그러한 진단들은 부정확할 수 있는데, 새로운 방법론들로 진단을 더 정확하게 하는 biomarker를 만들 수 있지 않을까???  
+**느낀점 : 우리가 배우는 질병에는 임상적으로(환자의 병력과 신체진찰만으로) 진단하는 질병이 꽤 많다. 그러한 진단들은 부정확할 수 있는데, 새로운 방법론들로 진단을 더 정확하게 하는 biomarker를 만들 수 있지 않을까???**  
+  
+# Session II. AI in Cardiovascular Imaging  
+### Artificial Intelligence in Cardiac Magnetic Resonance Imaging - The Promise of Revolutionary Translational Clinical Applications (Deborah kwon, Cleveland Clinic)  
 
+### Applications of Artificial Intelligence in Cardiovascular Computed Tomography (Young Joo Suh, YUCM)  
 
+### Technical Aspects of AI-based Cardiac Image Analysis with Deep Learning (Hwiyoung Kim, YUCM)  
+
+# Session III. Precision Medicine for Neurogenetic Diseases  
+### Epilepsy Genetics & Variant Interpretation Informatics (Dennis Lal, Cleveland Clinic)  
+### Epilepsy Management in thee Era of Precision Medicine (Hoon-Chul Kang, YUCM)  
+### Brain Somatic Mutations in FCD and Other Epilesy Associated Lesions (Jeong-Ho Lee, KAIST)
 
 
 

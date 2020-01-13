@@ -30,14 +30,14 @@ CAR-T therapy
 - 세포 배양  
 - 환자에게 재주입하여 암세포 공격  
 
-Take Home message  
+>>>> Take Home message  
 1. Carefully designed machine learning algorithms could identify mechanisms of response and resistance to immunotherapy treatment.  
 2. Histopathology images could be used to predict clinical phenotypes related with immunotherpay response.  
 3. Image is only providing a snapshot of phenotypes driven by genomic/epigenetic/transcriptomic/etc. changes. Be cautious and aware of limitations of the use of the image.  
 4. Think about your goal again and again. Single Cell is powerful but would not be your solution.  
 5. seeing is believing ? No. Manually check your gene expressions if it is too good to be true.
 
-느낀점 : 최근 연구자들이 multi-omics(genome, proteome, transcriptome....) data에 관심이 많은 듯 한데,, 만약 그 결과인 phenotype정보가 histopathology image에 담겨있다면? 그것을 deep learning으로 효과적으로 분석할 수 있다면?
+**느낀점 : 최근 연구자들이 multi-omics(genome, proteome, transcriptome....) data에 관심이 많은 듯 한데,, 만약 그 결과인 phenotype정보가 histopathology image에 담겨있다면? 그것을 deep learning으로 효과적으로 분석할 수 있다면?**
 
 ##### Clinical Impact of AI in Breast Imaging (Eun-Kyung Kim, YUCM)
 Lunit Insight MMG 개발에 직접 관여하신 분인듯.  
@@ -51,7 +51,7 @@ breast cancer screening에 쓰이는 mammography 판독을 딥러닝모델이 �
 - Real-world application  
   실제 screening seetting에서 clinical impact를 증명해야한다.  
   
-Summary  
+>>>> Summary  
 1. The AI-CAD : ready for clnical use  
 2. Studies within a screening scenaro should be performed to validate previous findings and to evaluate the real effect of AI support in screening.  
 3. We as clinicians should pay more attention to whether research on this tool is going in the right direction.  

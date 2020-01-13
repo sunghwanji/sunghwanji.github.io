@@ -37,8 +37,7 @@ Take Home message
 4. Think about your goal again and again. Single Cell is powerful but would not be your solution.  
 5. seeing is believing ? No. Manually check your gene expressions if it is too good to be true.
 
-
-
+느낀점 : 최근 연구자들이 multi-omics(genome, proteome, transcriptome....) data에 관심이 많은 듯 한데,, 만약 그 결과인 phenotype정보가 histopathology image에 담겨있다면? 그것을 deep learning으로 효과적으로 분석할 수 있다면?
 
 
 

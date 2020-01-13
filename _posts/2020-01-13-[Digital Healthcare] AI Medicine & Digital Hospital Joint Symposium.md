@@ -39,5 +39,19 @@ Take Home message
 
 느낀점 : 최근 연구자들이 multi-omics(genome, proteome, transcriptome....) data에 관심이 많은 듯 한데,, 만약 그 결과인 phenotype정보가 histopathology image에 담겨있다면? 그것을 deep learning으로 효과적으로 분석할 수 있다면?
 
-
-
+##### Clinical Impact of AI in Breast Imaging (Eun-Kyung Kim, YUCM)
+Lunit Insight MMG 개발에 직접 관여하신 분인듯.  
+breast cancer screening에 쓰이는 mammography 판독을 딥러닝모델이 잘하더라..  
+간혹 있는 false negative들은 충분한 데이터를 학습시키면 개선될 것이라고 생각하심.
+  
+앞으로 해야할 것들
+- Integration with PACS  
+- Workflow improvement  
+  지금은 판독을 찍은순서대로 하고 있는데, deep learning model이 triage를 해주면 workflow가 효율화 될것이다.
+- Real-world application  
+  실제 screening seetting에서 clinical impact를 증명해야한다.  
+  
+Summary  
+1. The AI-CAD : ready for clnical use  
+2. Studies within a screening scenaro should be performed to validate previous findings and to evaluate the real effect of AI support in screening.  
+3. We as clinicians should pay more attention to whether research on this tool is going in the right direction.  

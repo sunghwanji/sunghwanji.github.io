@@ -61,4 +61,22 @@ breast cancer screening에 쓰이는 mammography 판독을 딥러닝모델이 �
 3. We as clinicians should pay more attention to whether research on this tool is going in the right direction.  
   
 ### Application of machine learning to ICU patients for early detection of clinical problems and prediction of outcoms 
+**Heterogeneity of Delirium** 
+- Motor Subtype : hyperactive, hypoactive, mixed  
+- Etiology : infections, neurological injury or disease, medications, alcohol withdrawal, electrolyte imbalance, organ failure, hypoxia, surgery..  
+- Setting : surgical, medical, ICU, palliative care..  
+- The presence or absence of prior demetina  
+-> Validity of a diagnsosis?  
+-> Inconsistent results  
+-> Low generalizability and Low translation into clinical practice  
+(Harwood and Teale, Int J Geriatr Psychiatry, 2018)  
+즉, 위와같은 특성때문에 현재 delirium을 제대로 진단하고 management 하기 힘들다.  
+
+Delirium affects 20~40% of ICU patients  
+-> Prolonged ICU stay and mortality  
+
+**Delirium을 detection 혹은 prediction할 수 있는 biomarker가 있을까?**  
+
+
+
 

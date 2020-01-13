@@ -1,5 +1,5 @@
 ---
-title : "[Digital Healthcare] Machine Learning and Cancer-Diagnosis - How do we define cancer?"
+title : "[Digital Healthcare] AI Medicine & Digital Hospital Joint Symposium"
 tags:
   - Digital Healthcare
 use_math: falses

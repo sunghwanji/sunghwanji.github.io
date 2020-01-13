@@ -10,6 +10,7 @@ use_math: falses
 # Session I. Clinical application of AI and Digital Technology
 ### Translational Machine Learning and AI Approachese for Precesion Oncology - From Tissue to Single Cell and More (Tae Hyun Hwang, Cleveland Clinic)
   
+  
 ##### 1. 어떤 환자에게 면역항암제를 써야할까?  
 
 Tumer mutation burden(TMB), Microsatellite instability high tumor(MSI-H), PD-L1 발현 등은 neo-antigen 발현에 의한 면역반응으로 종양세포가 제거될 확률도 높아지기 때문에 암에 대한 면역반응을 올리는 Immunotherapy반응성과 연관이 되어있음이 알려져 있다.  

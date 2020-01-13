@@ -39,7 +39,7 @@ TMB가 높거나 MSI-H 임에도 Immunotherapy에 반응하지 않는 환자가 
 4. Think about your goal again and again. Single Cell is powerful but would not be your solution.  
 5. seeing is believing ? No. Manually check your gene expressions if it is too good to be true.
 
-**느낀점 : 최근 연구자들이 multi-omics(genome, proteome, transcriptome....) data에 관심이 많은 듯 한데,, 만약 그 결과인 phenotype정보가 histopathology image에 담겨있다면? 그것을 deep learning으로 효과적으로 분석할 수 있다면?**
+**느낀점 : 최근 연구자들이 multi-omics(genome, proteome, transcriptome....) data에 관심이 많은 듯 한데, 알려진것도 많지 않고, 돈도 많이들고, 어렵다. histopathology image는 multi-omics의 결과물(phenotype)일텐데, image를 deep learning으로 효과적으로 분석해서 multi-omics의 정보를 어느정도 대변할 수 있다면?**
 
 #### Clinical Impact of AI in Breast Imaging (Eun-Kyung Kim, YUCM)
 Lunit Insight MMG 개발에 직접 관여하신 분인듯.  

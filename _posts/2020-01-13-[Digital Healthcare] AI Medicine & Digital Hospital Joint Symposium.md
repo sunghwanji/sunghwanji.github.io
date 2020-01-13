@@ -86,6 +86,8 @@ Heart rate variability(HRV)와 Machine Learning으로 Delirium 과 Non-Delirium�
 
 +) 연자는 정신과 의사였지만, machine learning으로 ICU mortality를 예측하는 연구에 대해서도 설명해 주셨다. delirium 예측보다 더 잘되는듯.  
 
+**느낀점 : 우리가 배우는 질병에는 임상적으로(환자의 병력과 신체진찰만으로) 진단하는 질병이 꽤 많다. 그러한 진단들은 부정확할 수 있는데, 새로운 방법론들로 진단을 더 정확하게 하는 biomarker를 만들 수 있지 않을까???  
+
 
 
 

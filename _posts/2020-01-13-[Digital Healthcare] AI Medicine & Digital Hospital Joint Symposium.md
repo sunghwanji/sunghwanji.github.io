@@ -99,7 +99,8 @@ AI holds much promise to revolutionize the role of clinical Cardiac MR
 - Can be used to guide therpay  
 - May be useful for deriving cost-effective therapies  
   
-질의응답 : 
+질의응답 :  
+  이 연구자들이 했던 것이 cardiac MR 을 필요로 하는 환자를 골라내는 작업이었는데, 
   
 ### Applications of Artificial Intelligence in Cardiovascular Computed Tomography (Young Joo Suh, YUCM)  
 **What is radiomics ?**    
@@ -119,6 +120,7 @@ AI holds much promise to revolutionize the role of clinical Cardiac MR
 
 
 ### Technical Aspects of AI-based Cardiac Image Analysis with Deep Learning (Hwiyoung Kim, YUCM)  
+
 
 # Session III. Precision Medicine for Neurogenetic Diseases  
 ### Epilepsy Genetics & Variant Interpretation Informatics (Dennis Lal, Cleveland Clinic)  

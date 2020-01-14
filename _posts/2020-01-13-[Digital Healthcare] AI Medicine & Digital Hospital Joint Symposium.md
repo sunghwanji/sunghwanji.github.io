@@ -90,8 +90,17 @@ Heart rate variability(HRV)와 Machine Learning으로 Delirium 과 Non-Delirium�
   
 # Session II. AI in Cardiovascular Imaging  
 ### Artificial Intelligence in Cardiac Magnetic Resonance Imaging - The Promise of Revolutionary Translational Clinical Applications (Deborah kwon, Cleveland Clinic)  
-
+**Conclusion**  
+AI holds much promise to revolutionize the role of clinical Cardiac MR  
+- Imporve efficiency, reproducibility, accuracy of reporting  
+- Improve diagnostic accuracy - Radiomics  
+- Identify novel patterns of disease to improve risk stratification  
+- Potential for developing precision/personalized medicine  
+- Can be used to guide therpay  
+- May be useful for deriving cost-effective therapies  
+  
 ### Applications of Artificial Intelligence in Cardiovascular Computed Tomography (Young Joo Suh, YUCM)  
+
 
 ### Technical Aspects of AI-based Cardiac Image Analysis with Deep Learning (Hwiyoung Kim, YUCM)  
 

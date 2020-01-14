@@ -99,11 +99,23 @@ AI holds much promise to revolutionize the role of clinical Cardiac MR
 - Can be used to guide therpay  
 - May be useful for deriving cost-effective therapies  
   
+질의응답 : 
+  
 ### Applications of Artificial Intelligence in Cardiovascular Computed Tomography (Young Joo Suh, YUCM)  
-What is radiomics ?  
+**What is radiomics ?**    
 - Definition  
-Conversion of digital medical images into mineable high-dimensional data  
-To extract large number of quantitative features from medical imagese using data-characterization algorithms  
+  - Conversion of digital medical images into mineable high-dimensional data  
+  - To extract large number of quantitative features from medical imagese using data-characterization algorithms  
+- Theoretical Background  
+  - Biomedical images contain information that reflects underlying pathophysiology  
+  - Potential to uncover disease characteristics that fail to be appreciated by the naked eye  
+
+**Summary**  
+- Expanding role of cardiac CT  
+  - Image reconstruction : denoising  
+  - Segmentation and quantification : coronary calcium, heart chamber  
+  - Interpretation : ML-based FFR  
+  - Prognosis
 
 
 ### Technical Aspects of AI-based Cardiac Image Analysis with Deep Learning (Hwiyoung Kim, YUCM)  

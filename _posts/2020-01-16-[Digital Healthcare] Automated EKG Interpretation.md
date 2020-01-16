@@ -37,6 +37,7 @@ Volume 70, Issue 9,
  ![그림](https://ars.els-cdn.com/content/image/1-s2.0-S0735109717387946-gr5.jpg)
  
 ##### General Comments About Technical Aspects
+대략 이런 순서대로 진행되는듯 했다.
  1. Signal Processing : 시그널을 얻어내고, 아날로그를 디지털로 바꾸고, 노이즈를 없애기.  
  2. Wave Recognition : P-wave, QRS-complex, T-wave의 시작과 끝을 정한다.  
  3. Measurements of intervals (PR, QRS, QT) and amplitude parameters : 이 지점에서 제조사간에 차이도 있고, arrythmia가 있을 때 기술적 문제들이 있는 듯 하다.  

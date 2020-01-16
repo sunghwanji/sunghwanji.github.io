@@ -39,7 +39,9 @@ Volume 70, Issue 9,
  2. Wave Recognition : P-wave, QRS-complex, T-wave의 시작과 끝을 정한다.  
  3. Measurements of intervals (PR, QRS, QT) and amplitude parameters : 이 지점에서 제조사간에 차이도 있고, arrythmia가 있을 때 기술적 문제들이 있는 듯 하다.  
  
- 각 wave의 정의, 측정법, 판독문의 표준화가 아직 되어있지 않다. 이것은 임상적인 결과에 차이를 미칠 수 있다.  
+ 즉, rule-base로 접근하는 것으로 이해된다.  
+   
+ 문제는, 각 wave의 정의, 측정법, 판독문의 표준화가 아직 되어있지 않다. 이것은 임상적인 결과에 차이를 미칠 수 있다.  
  예) 심부전의 치료법 중 하나인, Cardiac resychronization therpay의 경우 QRS 길이가 적응증에 매우 중요해서, QRS 길이 측정법에 예민하다.  
  
 ##### Algorithm Accuracy

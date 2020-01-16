@@ -20,6 +20,13 @@ use_math: false
   
   
 ### Computer-Interpreted Electrocardiograms: Benefits and Limitations
+Automated EKG Interpretation과 현재 논의 중인 '의료인공지능'과 비교하려고 해보니 궁금한 것이 너무 많아진다.  
+일단, Automated EKG interpretation에 대해 먼저 공부해 봐야겠다. 생각보다 볼 자료가 없었는데, 잘 정리되어 있는 논문이 하나 있어서 읽어보았다.    
+[Jürg Schläpfer, Hein J. Wellens,
+Computer-Interpreted Electrocardiograms: Benefits and Limitations,
+Journal of the American College of Cardiology,
+Volume 70, Issue 9,
+2017](https://www.sciencedirect.com/science/article/pii/S0735109717387946#bib22)
 ##### Automated EKG Interpretation
  - 매해 전세계적으로 수백만장의 EKG가 찍히고있으며, 대부분 자동판독이 되고 있다.  
  - 1950년대부터 EKG 판독을 자동화하려는 노력이 있었으며 그이후로도 프로그램간에 표준화를 하고, 정확도를 높이려는 노력을 계속 해왔다.  
@@ -45,5 +52,5 @@ EKG 자동판독 알고리즘의 정확도를 연구하는데 문제점은
 
 ##### Practical Aspects
 
-https://www.sciencedirect.com/science/article/pii/S0735109717387946#bib22
+
   

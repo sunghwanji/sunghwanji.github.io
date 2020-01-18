@@ -1,5 +1,5 @@
 ---
-title : "[Data Science] AI Medicine & Digital Hospital Joint Symposium"
+title : "[Data Science] AI Medicine & Digital Hospital Joint Symposium Review"
 tags:
   - Digital Healthcare
 use_math: falses

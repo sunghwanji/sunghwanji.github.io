@@ -1,5 +1,5 @@
 ---
-title : "[Digital Healthcare] Automated EKG Interpretation"
+title : "[Digital Healthcare] Automated EKG Interpretation - What is Different from A.I.?"
 tags:
   - Digital Healthcare
 use_math: false

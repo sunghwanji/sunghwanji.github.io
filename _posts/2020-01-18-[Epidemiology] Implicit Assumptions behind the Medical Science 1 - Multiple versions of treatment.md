@@ -1,5 +1,5 @@
 ---
-title : "[Epidemiology] 현대의학의 숨겨진 가정들 1 - Multiple versions of treatment"
+title : "[Epidemiology] Implicit Assumptions behind the Medical Science 1 - Multiple versions of treatment"
 tags:
   - Epidemiology
 use_math: false

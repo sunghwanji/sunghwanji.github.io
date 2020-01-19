@@ -13,7 +13,7 @@ use_math: falses
   
 ##### 1. 어떤 환자에게 면역항암제를 써야할까?  
 
-Tumer mutation burden(TMB), Microsatellite instability high tumor(MSI-H), PD-L1 발현 등은 neo-antigen 발현에 의한 면역반응으로 종양세포가 제거될 확률도 높아지기 때문에 암에 대한 면역반응을 올리는 Immunotherapy반응성과 연관이 되어있음이 알려져 있다.  
+Tumer mutation burden(TMB), Microsatellite instability high tumor(MSI-H), PD-L1 발현 등은 neo-antigen 발현을 증가시키고 그에 의한 면역반응으로 종양세포가 제거될 확률도 높아지기 때문에 암에 대한 면역반응을 올리는 Immunotherapy반응성과 연관이 되어있음이 알려져 있다.  
 **sequencing을 해야만 알 수 있는 TMB, MSI-H 정보를 histopathology image로 알 수 있다면?**  
   
 TMB가 높거나 MSI-H 임에도 Immunotherapy에 반응하지 않는 환자가 있다.  
@@ -100,15 +100,19 @@ AI holds much promise to revolutionize the role of clinical Cardiac MR
 - May be useful for deriving cost-effective therapies  
   
 질의응답 :  
-  이 연구자들이 했던 것이 cardiac MR 을 필요로 하는 환자를 골라내는 작업이었는데, 
+  이 연구자들이 했던 것 중 하나는 cardiac MR이 필요한 환자를 선별해 내는 연구였다. 연대의대 학부생으로 추정되는 학생이 영어로 유창하게 질문을 했던 것이 인상깊었는데, 어쨌든 이 연구들은 3차병원의 데이터로 진행된 연구고, 이것을 지역의원에서 쓸 수 있느냐, 개인정보보호의 문제는 없느냐였다. 연자의 답변은, 써볼 수 있다, 개인정보보호의 문제는 데이터의 공유없이 알고리즘만 공유하는 방법으로 해결 가능하다는 것이었다.  
+  
+  현재 대부분의 머신러닝 연구들은 3차병원데이터로 하고있다. **3차병원 환자들의 데이터 분포는 지역의원환자의 데이터 분포와 다를것이라고 생각한다.** 지역의원환자들의 데이터가 있다면 어떤 환자를 상급병원으로 보내야 할지 screening 할 수 있는 연구를 해볼 수 있지 않을까?
+  
+  
   
 ### Applications of Artificial Intelligence in Cardiovascular Computed Tomography (Young Joo Suh, YUCM)  
 **What is radiomics ?**    
 - Definition  
   - Conversion of digital medical images into mineable high-dimensional data  
   - To extract large number of quantitative features from medical imagese using data-characterization algorithms  
-- Theoretical Background  
-  - Biomedical images contain information that reflects underlying pathophysiology  
+- **Theoretical Background**   
+  - **Biomedical images contain information that reflects underlying pathophysiology**  
   - Potential to uncover disease characteristics that fail to be appreciated by the naked eye  
 
 **Summary**  
@@ -117,6 +121,8 @@ AI holds much promise to revolutionize the role of clinical Cardiac MR
   - Segmentation and quantification : coronary calcium, heart chamber  
   - Interpretation : ML-based FFR  
   - Prognosis
+  
+**느낀점 : 다른 것 보다 Radimoics의 이론적 배경이 인상깊었다.**
 
 
 ### Technical Aspects of AI-based Cardiac Image Analysis with Deep Learning (Hwiyoung Kim, YUCM)  
@@ -126,11 +132,3 @@ AI holds much promise to revolutionize the role of clinical Cardiac MR
 ### Epilepsy Genetics & Variant Interpretation Informatics (Dennis Lal, Cleveland Clinic)  
 ### Epilepsy Management in thee Era of Precision Medicine (Hoon-Chul Kang, YUCM)  
 ### Brain Somatic Mutations in FCD and Other Epilesy Associated Lesions (Jeong-Ho Lee, KAIST)
-
-
-
-
-
-
-
-

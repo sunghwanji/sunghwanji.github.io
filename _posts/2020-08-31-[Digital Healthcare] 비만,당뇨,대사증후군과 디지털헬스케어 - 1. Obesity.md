@@ -6,16 +6,29 @@ tags:
 use_math: false
 ---
 
+# I. Obesity  
 과거 인간은 음식물 섭취가 일정하지 않아 에너지를 저장하는 능력이 생존에 필수적이었다. 지방세포(fat cells)는 중성지방(triglyceride)형태로 에너지를 효율적으로 저장하며, 필요할 때는 중성지방을 유리지방산(free fatty acids)형태로 분배한다. 내분비계, 신경계로 조절되는 이런 시스템 덕분에 인간은 수개월까지 굶어도 살 수 있다. 그러나 유전적 기질과 더불어 현대의 영양과다와 좌식생활은 우리의 그 시스템이 지방형태의 에너지 저장을 늘리고 건강의 나쁜 결과를 야기하고 있다.  
 
-### Definition and Measurement
-비만(Obesity)의 개념적인 정의는 지방조직의 과다이다(a state of excess adipose tissue mass). 간혹 체중의 과다로 정의되기도 하는데, 마르고 근육질인 사람은 체중기준으로는 비만일 수 있으나, 지방조직은 많지 않을 것이다. 체중보다는 합병증과 사망과의 연관성 혹은 지방조직의 양으로 정의되는 것이 더 적절하다.  
+### 1. Definition and Measurement
+비만은 어떻게 정의할까?  
   
-지방과다(adiposity)의 직접적인 측정은 아니나 보통 체중을 키의 제곱으로 나눈 체질량지수(Body mass index, BMI)를 사용한다. 다른 방법으로는 피하지방두꼐(skinfold thickness), 컴퓨터단층촬영(computed tomography, CT), 자기공명영상법(magnetic resonance imaging, MRI) 등의 방법이 있다고는 하나 임상에서는 제한적으로 쓰인다.  
-대부분의 역학연구에서 BMI 25 이상일 때부터 다양한(metabolic, cancer, cardiovascular) 합병증 이환률이 증가한다. 그 데이터를 바탕으로 과체중이라고 보고, 치료를 시작한다. BMI 30 이상부터는 합병증 이환율이 상당히 증가하여, 보통 비만의 기준을 BMI 30으로 본다.  
+비만(Obesity)의 개념적인 정의는 지방조직의 과다이다(a state of excess adipose tissue mass). 간혹 체중의 과다로 정의되기도 하는데, 마르고 근육질인 사람은 체중기준으로는 비만일 수 있으나, 지방조직은 많지 않을 것이다. 체중보다는 합병증과 사망과의 연관성 혹은 지방조직의 양으로 정의되는 것이 더 적절하겠다.  
+  
+지방과다(adiposity)의 직접적인 측정은 아니나 보통 체중을 키의 제곱으로 나눈 체질량지수(Body mass index, BMI)를 사용한다. (다른 방법으로는 피하지방두꼐(skinfold thickness), 컴퓨터단층촬영(computed tomography, CT), 자기공명영상법(magnetic resonance imaging, MRI) 등의 방법이 있다고는 하나 임상에서는 제한적으로 쓰인다.)  
+대부분의 역학연구에서 BMI 25 이상일 때부터 다양한(metabolic, cancer, cardiovascular) 합병증 이환률이 증가함을 알 수 있다. 그 데이터를 바탕으로 과체중이라고 보고, 치료를 시작한다. BMI 30 이상부터는 합병증 이환율이 상당히 증가하여, 보통 비만의 기준을 BMI 30으로 본다.  
   
 지방조직의 분포 또한 합병증 이환율에 굉장히 중요하다. 복강내 및 복부의 피하지방은 엉덩이나 하지의 피하지방보다 비만의 합병증에 연관성이 더 높음이 알려져있다. 그래서 임상에서는 waist-to-hip ratio를 사용하기도 한다.  
   
-몸에 지방조직이 과다하면, 유리지방산(free fatty acids)가 분비되면서 지방간 등의 다양한 부작용을 만들며, 지방세포에서 분비하는 adipokine을 비롯한 cytokine이 비만의 합병증에 관여한다.  
+비만이 우리몸에 어떻게 나쁜 영향을 미치는 지는 이 글의 목적에서 좀 벗어나지만, 간단하게는 몸에 지방조직이 과다하면, 유리지방산(free fatty acids)가 분비되면서 지방간 등의 다양한 부작용을 만들며, 지방세포에서 분비하는 adipokine을 비롯한 cytokine이 비만의 합병증에 관여함이 알려져있다.  
   
-### 
+##### BMI말고 비만의 정의를 대체할 방법은 없는가?
+임상에서 비만의 정도를 파악할때 대부분 체중과 키를 보고 대략적으로 판단한다. 어떤 환자든 간에 키와 체중은 나이, 성별처럼 기본적으로 기록하는 정보이기 때문에 '비만의 정도'를 파악하기위해 추가로 정보를 얻어낼 필요가 없다. 혹은 전자의무기록(electronic medical records, EMR), 즉 의사가 보는 전산프로그램에 키와 체중을 이용하여 BMI가 자동으로 계산까지 해준다면 BMI를 보고 판단한다. 그러나 위에서 보았듯이 키와 체중, BMI보다 더 중요한 것은 그 사람의 지방과다(특히 복부지방)의 정도 혹은 비만의 합병증과의 연관성 일 것이다. 비만의 합병증은 그 환자의 비만의 정도 뿐만 아니라 그 환자의 다른 동반질환(고혈압, 당뇨 등)의 유무 등 고려할 다른 요소가 많아 추후 대사증후군에 대해 정리할 때 다시 보기로 하고 이번에는 지방과다(특히 복부지방)의 정도를 측정하는 시도들에 대해 정리해 보겠다.  
+  
+##### 인바디, Bioelectrical Impedance Analysis(BIA)
+비만의 정의를 리뷰하다보니 단순히 체중만 측정하는 것이 아닌, 근육량, 체지방량 등 체성분 분석까지 해주는 인바디가 생각난다. 인바디는 사실 회사이름이고, 정확히는 생체전기임피던스법(Bioelectrical Impedance Analysis, BIA)이다. 인체가 전기가 잘 통하는 수분으로 이루어져있고, 수분량에 따라 전기가 통과하는 정도, 즉 저항이 달라진다는 점을 이용한다. 우리몸에 전류를 흘려 생기는 저항을 측정하여 우리몸의 체성분을 측정하는 것이다. 전극의 위치나, 몸의 수분량(수분섭취, 소변배출전후 등)에 민감하여 측정값의 변동(variation)이 크고 정확도에 의문이 있어 uptodate에서는 제한적인 조건(바디빌더 혹은 부종이 심하여 BMI가 체지방측정에 적절하지 않은 환자 등)에만 권고한다. 인바디 홈페이지를 참고하여 보면, 정확도를 개선하기위해 다양한 노력을 하고 있다.
+
+### Reference 
+1. Jameson, J. Larry. Harrison's principles of internal medicine. McGraw-Hill Education,, 2018.
+2. Perreault, Leigh. "Determining Body Composition in Adults." Eds Pi-Sunyer F & Sullivan D. Waltham, MA: UpToDate (2020).
+3. https://www.inbody.com/kr/rnd/Technology.aspx
+

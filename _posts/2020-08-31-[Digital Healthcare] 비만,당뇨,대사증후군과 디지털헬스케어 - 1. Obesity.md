@@ -80,6 +80,10 @@ use_math: false
 ### 5. Pathologic consequences of obesity
 비만의 합병증에 대해서는 이 글의 주제에서 약간 벗어난 듯 하여 자세히 다루지는 않겠다. 비만환자들이 그렇지 않은 환자들에 비해 사망률이 높으며 기대수명이 짧다는 것은 이미 많이 밝혀져 있다. 주로 연관된 질병은, 당뇨, 생식계통의 장애, 심혈관계질환, 수면무호흡증을 비롯한 호흡기계장애, 지방간 담석 등의 간담도계 질환, 암, 관절염 등의 근골격계 질환이다.  
   
+  
+(계속) 다음 편에는 비만의 평가와 치료에 대해 정리해 보려 한다. 
+
+  
 ### Reference 
 1. Jameson, J. Larry. Harrison's principles of internal medicine. McGraw-Hill Education,, 2018. (특별히 언급하지 않았다면 대부분 해리슨 내과학을 인용하였습니다.)
 2. Perreault, Leigh. "Determining Body Composition in Adults." Eds Pi-Sunyer F & Sullivan D. Waltham, MA: UpToDate (2020).

@@ -85,7 +85,7 @@ use_math: false
 
   
 ### Reference 
-1. Jameson, J. Larry. Harrison's principles of internal medicine. McGraw-Hill Education,, 2018. (특별히 언급하지 않았다면 대부분 해리슨 내과학을 인용하였습니다.)
-2. Perreault, Leigh. "Determining Body Composition in Adults." Eds Pi-Sunyer F & Sullivan D. Waltham, MA: UpToDate (2020).
+1. Jameson, J. Larry. Harrison's principles of internal medicine. McGraw-Hill Education,, 2018. (특별히 언급하지 않았다면 대부분 해리슨 내과학을 참고하였습니다.)
+2. Perreault, Leigh. "Determining Body Composition in Adults." Eds Pi-Sunyer F & Sullivan D. Waltham, MA: UpToDate. 2020.
 3. https://www.inbody.com/kr/rnd/Technology.aspx
 4. 국민건강영양조사_제7기_3차년도(2018)
